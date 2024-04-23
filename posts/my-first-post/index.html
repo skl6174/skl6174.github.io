@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="zh_cn">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <title>My First Post | Welcome</title>
 
@@ -22,6 +22,12 @@
 
 
 
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+
 
 
 
@@ -31,11 +37,11 @@
   <body>
     <nav class="navigation">
 	
-		<a href="/"> <span class="arrow">←</span>Home</a>
+		<a href="/"> <span class="arrow">←</span>首页</a>
 	
-	<a href="/posts">Archive</a>
-	<a href="/tags">Tags</a>
-	<a href="/about">About</a>
+	<a href="/posts">归档</a>
+	<a href="/tags">标签</a>
+	<a href="/about">关于</a>
 
 	
 
@@ -50,18 +56,18 @@
     <h1 class="title">My First Post</h1>
 
     <div class="tip">
-        <time datetime="2023-11-03 00:00:00 &#43;0000 UTC">Nov 3, 2023</time>
+        <time datetime="2023-11-03 00:00:00 &#43;0000 UTC">2023年11月03日</time>
         <span class="split">
           ·
         </span>
         <span>
-          153 words
+          192字
         </span>
         <span class="split">
           ·
         </span>
         <span>
-          1 minute read
+          1分钟
         </span>
     </div>
 
@@ -78,6 +84,7 @@
   <ul>
     <li><a href="#hello-world">Hello World!</a></li>
     <li><a href="#test2024022">test2024022</a></li>
+    <li><a href="#test20240423">test20240423</a></li>
   </ul>
 </nav>
           </div>
@@ -86,6 +93,13 @@
   
 
 
+    
+
+    
+      <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+      </script>
     
 
 
@@ -102,7 +116,17 @@
 <div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powershell" data-lang="powershell"><span style="display:flex;"><span><span style="color:#080;font-style:italic"># following code should be run in Powershell instead of Windows Powershell</span>
 </span></span><span style="display:flex;"><span><span style="color:#a2f">cd </span>D:\Site\MySite
 </span></span><span style="display:flex;"><span>hugo server -d.
-</span></span></code></pre></div>
+</span></span></code></pre></div><h2 id="test20240423">test20240423 <a href="#test20240423" class="anchor">🔗</a></h2><p>打错了一个文件名，git来git去，人傻了​ &#x1f923;</p>
+<p>test math:
+$$
+n_{A}=\dfrac{r+1}{r}\cdot\dfrac{(Z_{1-\beta}+Z_{1-\alpha/2})^2\sigma^2}{d^2}
+$$</p>
+<p>test diagram:</p>
+<pre class="mermaid">sequenceDiagram
+A->>B: How are you?
+B->>A: Great!
+  </pre>
+  
     </div>
 
     

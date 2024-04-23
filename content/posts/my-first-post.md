@@ -5,6 +5,7 @@ description = "test"
 tags = [
     "test",
 ]
+
 +++
 
 ## Hello World!
@@ -20,4 +21,19 @@ thanks to [*hugo 显相对路径下的图片*](https://leenzhu.com/posts/hugo-sh
 # following code should be run in Powershell instead of Windows Powershell
 cd D:\Site\MySite
 hugo server -d.
+```
+
+## test20240423
+打错了一个文件名，git来git去，人傻了​ :rofl:
+
+test math:
+$$
+n_{A}=\dfrac{r+1}{r}\cdot\dfrac{(Z_{1-\beta}+Z_{1-\alpha/2})^2\sigma^2}{d^2}
+$$
+
+test diagram:
+```mermaid
+sequenceDiagram
+A->>B: How are you?
+B->>A: Great!
 ```

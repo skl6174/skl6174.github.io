@@ -1,10 +1,10 @@
-baseURL: https://example.com
-languageCode: en-us
+baseURL: https://skl6174.github.io
+languageCode: zh_cn
 title: Welcome
 theme: hugo-theme-mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
-defaultContentLanguage: en
+defaultContentLanguage: zh
 
 hasCJKLanguage: true
 permalinks:
@@ -64,7 +64,7 @@ params:
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
   showPowerBy: true
   # To enable math typesetting , you could set `math: true`, default is `false`
-  math: false
+  math: true
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
@@ -85,3 +85,5 @@ params:
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
     # - https://example.com/custom.js # remote js
+
+enableEmoji: true
