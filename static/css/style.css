@@ -1,0 +1,145 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5;
+}
+
+/* header and footer areas */
+.menu { padding: 0; }
+.menu li { display: inline-block; }
+.article-meta, .menu a {
+  text-decoration: none;
+  background: #eee;
+  padding: 5px;
+  border-radius: 5px;
+}
+.menu, .article-meta, footer { text-align: center; }
+footer a { text-decoration: none; }
+
+.meta-line {
+  margin-top: 0.5em;
+  font-size: 0.9em;
+  color: #666;
+}
+.meta-line span {
+  margin-right: 1em;
+  white-space: nowrap;
+}
+.meta-line a {
+  text-decoration: none;
+}
+
+hr {
+  border-style: dashed;
+  color: #ddd;
+}
+/* code */
+pre {
+  border: 1px solid #ddd;
+  box-shadow: 5px 5px 5px #eee;
+  padding: 1em;
+  overflow-x: auto;
+}
+code { background: #f9f9f9; }
+pre code { background: none; }
+
+/* misc elements */
+img, iframe, video { max-width: 100%; }
+main { hyphens: auto; }
+blockquote {
+  background: #f9f9f9;
+  border-left: 5px solid #ccc;
+  padding: 3px 1em 3px;
+}
+
+table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+/* TOC */
+.toc {
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  background: #f9f9f9;
+  border: 1px dashed #ddd;
+  font-size: 0.9em;
+}
+
+.toc summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.toc ul {
+  padding-left: 1.2em;
+}
+
+.toc a {
+  text-decoration: none;
+}
+
+/* Dark Mode */
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #1e1e1e;
+    color: #eaeaea;
+  }
+
+  a {
+    color: #8ab4f8;
+  }
+
+  .article-meta,
+  .menu a {
+    background: #2a2a2a;
+  }
+
+  .meta-line {
+    color: #aaa;
+  }
+
+  hr {
+    color: #444;
+  }
+
+  pre {
+    border-color: #444;
+    box-shadow: none;
+    background: #0D1117;
+  }
+
+  .toc {
+    background: #2a2a2a;
+    border-color: #444;
+  }
+
+  code {
+    background: #1a1a1a;
+  }
+
+  blockquote {
+    background: #2a2a2a;
+    border-left-color: #555;
+  }
+
+  table {
+    border-top-color: #555;
+    border-bottom-color: #555;
+  }
+
+  table thead th {
+    border-bottom-color: #444;
+  }
+
+  thead,
+  tfoot,
+  tr:nth-child(even) {
+    background: #2a2a2a;
+  }
+}

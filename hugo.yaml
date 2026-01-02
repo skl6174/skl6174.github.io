@@ -1,0 +1,55 @@
+baseurl: "https://skl6174.github.io/"  # please update this to your actual URL
+enableEmoji: true
+languageCode: "zh-cn"
+title: "shenkl的小窝"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: 主页
+      url: ""
+      weight: 1
+    - name: 关于
+      url: "about/"
+      weight: 2
+    - name: 分类
+      url: "categories/"
+      weight: 3
+    - name: 标签
+      url: "tags/"
+      weight: 4
+
+params:
+  description: "shenkl's blog"
+  footer: "&copy; [shenkl] 2023 -- {Year} | [Github](https://github.com/skl6174) | [Bilibili](https://space.bilibili.com/2081273376)"
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+    ordered: false
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)

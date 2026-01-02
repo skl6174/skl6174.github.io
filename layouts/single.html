@@ -1,0 +1,48 @@
+{{ partial "header.html" . }}
+<div class="article-meta">
+  <h1 class="title">{{ .Title | markdownify }}</h1>
+
+  <div class="meta-line">
+    <span>发布: {{ .Date.Format "2006-01-02" }}</span>
+
+    {{ if .Lastmod }}
+    <span>上次更新: {{ .Lastmod.Format "2006-01-02" }}</span>
+    {{ end }}
+
+    {{ with .Params.categories }}
+    <span>
+      分类:
+      {{ range $i, $c := . }}
+        {{ if $i }}, {{ end }}
+        <a href="{{ "/categories/" | relURL }}{{ $c | urlize }}">{{ $c }}</a>
+      {{ end }}
+    </span>
+    {{ end }}
+
+    {{ with .Params.tags }}
+    <span>
+      标签:
+      {{ range $i, $t := . }}
+        {{ if $i }}, {{ end }}
+        <a href="{{ "/tags/" | relURL }}{{ $t | urlize }}">{{ $t }}</a>
+      {{ end }}
+    </span>
+    {{ end }}
+  </div>
+</div>
+
+
+<main>
+  {{ if and (.Params.toc) (.TableOfContents) }}
+  <nav class="toc">
+    <details open>
+      <summary>目录</summary>
+      {{ .TableOfContents }}
+    </details>
+  </nav>
+  {{ end }}
+
+  {{ .Content }}
+</main>
+
+{{ partial "footer.html" . }}
