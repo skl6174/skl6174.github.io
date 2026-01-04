@@ -84,6 +84,47 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
   text-decoration: none;
 }
 
+/* figure */
+figure.figure {
+  margin: 1.5em auto;
+  text-align: center;
+  max-width: 600px;
+}
+
+figure.figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure.figure figcaption {
+  margin-top: 0.5em;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.figure-row {
+  display: flex;
+  gap: 1em;
+  margin: 1.5em 0;
+}
+
+.figure-row .figure {
+  flex: 1;
+  margin: 0;
+  text-align: center;
+}
+
+.figure-row img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  .figure-row {
+    flex-direction: column;
+  }
+}
+
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
   body {
@@ -141,5 +182,9 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
   tfoot,
   tr:nth-child(even) {
     background: #2a2a2a;
+  }
+
+  figure.figure figcaption {
+    color: #aaa;
   }
 }

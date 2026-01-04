@@ -1,7 +1,7 @@
 ---
 title: Markdown Test
 date: '2025-12-31'
-lastmod: '2026-01-02'
+lastmod: '2026-01-04'
 toc: true
 categories:
   - Test
@@ -80,3 +80,11 @@ Transition Probabilities :
 | ------- | ------- | ---- |
 |  `$\alpha$`  |   0.9   |  0.1 |
 |  `$\beta$` |   0.1 | 0.9 |
+
+#### 测试MASK
+
+<span class="text_mask" style="background-color:#555;color:#555;border:1px solid #555;">
+  <span class="inner">
+    试试看行不行
+  </span>
+</span>
