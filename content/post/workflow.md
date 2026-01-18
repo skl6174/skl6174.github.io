@@ -2,7 +2,6 @@
 title: conda + VS Code + R Workflow
 date: '2026-01-18'
 lastmod: '2026-01-18'
-toc: true
 categories:
   - Study
 tags:
@@ -29,5 +28,3 @@ set RTOOLS_PATH=%RTOOLS_ROOT%\usr\bin;%RTOOLS_ROOT%\mingw64\bin
 set PATH=%RTOOLS_PATH%;%PATH%
 code . -n
 ```
-
-~~代码高亮生效了吗？~~

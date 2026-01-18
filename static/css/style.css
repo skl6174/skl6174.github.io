@@ -5,6 +5,14 @@ body {
   line-height: 1.5;
 }
 
+/* remove link underline */
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
