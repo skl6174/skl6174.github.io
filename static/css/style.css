@@ -133,6 +133,25 @@ figure.figure figcaption {
   }
 }
 
+/* text masking */
+.mask {
+  background: var(--mask-bg);
+  color: transparent;
+  border-radius: .25em;
+  cursor: pointer;
+  transition: color .2s, background .2s;
+}
+
+.mask:hover,
+.mask:active {
+  color: var(--mask-text);
+}
+
+:root {
+  --mask-bg: #555;
+  --mask-text: #fff;
+}
+
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
   body {

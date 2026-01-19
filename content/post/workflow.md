@@ -1,7 +1,7 @@
 ---
 title: conda + VS Code + R Workflow
 date: '2026-01-18'
-lastmod: '2026-01-18'
+lastmod: '2026-01-19'
 categories:
   - Study
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 - - -
 
-无聊写了个conda + VS Code + R的Workflow，要求有miniconda，vscode，R，Rtools，且都已添加环境变量。
+无聊写了个conda + VS Code + R的Workflow，要求有miniconda，vscode，R，Rtools，且都已添加系统/用户环境变量。
 
 以batch文件所在目录为工作路径，启动所在文件夹同名的conda环境，启动vscode识别到conda环境中的R语言并添加Rtools路径。
 
