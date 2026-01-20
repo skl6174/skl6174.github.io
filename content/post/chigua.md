@@ -1,7 +1,7 @@
 ---
 title: 吃瓜
 date: '2026-01-05'
-lastmod: '2026-01-16'
+lastmod: '2026-01-20'
 toc: true
 draft: true
 categories:
@@ -68,3 +68,15 @@ tags:
 
 > 我已经闻到了血腥的气息。其实上本书章说中关于明朝的问题已经有一些火药味了，只不过因为政治正确，再加上不是主战场，所以就摺过去了，这回无论如何都避免不了的，是时候让作者体验一下狂暴轰入了<img src="/images/ac15.png" alt="哭笑">
 作者本身就有自撰史料的前科，再加上性格死犟，现在部分皇汉和明粉又处在一种奇怪的亢奋状态，这下真的有的看了，看是作者和他的孝子赢还是明粉赢，我对这场战争的期待程度已经超过这本书本身了，说实话<img src="/images/ac15.png" alt="哭笑">
+
+## "我们从2018年布局到现在已经成功"
+
+2026/1/20
+
+[kikisanji](https://x.com/Kikisanji9an/status/2013487604587516294)
+
+<figure class="figure">
+  <img src="/images/2026-01-20 202510.png" alt="kikisanji" style="max-width:400px">
+</figure>
+
+此账号不存在
