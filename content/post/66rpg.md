@@ -1,0 +1,1968 @@
+---
+title: 66RPG游戏大赛作品
+date: '2026-02-12'
+lastmod: '2026-02-12'
+toc: true
+categories:
+  - Collection
+tags:
+  - game
+  - rpg
+  - avg
+---
+
+大概从24年开始收集，因为在收集cngal的过程中遇到[这个论坛](https://rpg.blue/)文字游戏大赛的帖子，当时仅仅是为了其中的AVG游戏，去年才开始全面地“搜刮”，截止年底差不多把游戏比赛的作品名录整理了出来，最近完成了对已发现/购买的游戏的拷贝，包括同论坛其他一些零零散散的游戏大概有一百多G，很可惜还是有大量游戏可能已经失传。论坛原名66RPG，后来管理层将网站转型为橙光，而RM游戏的用户则转移至Project1，即现在我收集游戏的论坛，这些事情可以百度查到，这里不再赘述。这份作品名录以大赛主办方公布的游戏名录为准（前几次的大赛可能多一两个），不管参赛者是否提交作品过晚或未通过初审，主办方链接见[checklist](https://skl6174.github.io/post/2026/02/12/游戏checklist/)。下面选中的游戏代表我已有该游戏的资源，不管是在互联网上找到还是在Steam等平台购买。游戏名可能与网站上作品名录的名字有出入，因为当时当时登记游戏名时就搞错了。
+
+- - -
+
+### 短篇游戏大赛1 2006/6
+- [ ] [无](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down336.htm)
+- [x] [**PIANO，一个未来的感动故事** by 张永](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down282.htm)
+- [x] [**箱箱义务教育** by 美兽](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down265.htm)
+- [x] [**劫狱英雄** by 玮哥投胎了](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down293.htm)
+- [ ] [戏说梦幻西游 by 南宫恋絮](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down303.htm)
+- [ ] [神祭 by 小天](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down338.htm)
+- [x] [**挽·空** by 雷欧纳德](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down314.htm)
+- [ ] [魔力宝贝-暗黑露比电影预览 by IKKI](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down333.htm)
+- [ ] [张飞与孔明不得不说的故事 by 田各](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down286.htm)
+- [ ] [逆转之王—偷窥的逆转 by larry](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down317.htm)
+- [ ] [小镇的钢琴家 by 笨小孩](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down337.htm)
+- [x] [荒唐学院 by 暴风の龙](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down290.htm)
+- [ ] [柑暴甜少年事件簿 by oscikeyah](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down335.htm)
+- [ ] [再見！我的召喚師 by Mr.Hool](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down302.htm)
+- [ ] [我们分手吧 by 斬月](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down311.htm)
+- [x] [血色圆舞曲--夜曲 by 血腥蓝](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down308.htm)
+- [ ] [光明之泪 by 灰白兰·白](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down288.htm)
+- [ ] [雪之忆 by 空山鸣涧](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down319.htm)
+- [ ] [love☆life by 樱之羽](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down305.htm)
+- [ ] [逃出房间之噩梦 by 风雪优游](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down289.htm)
+- [ ] [梦境传说 by lesliya](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down312.htm)
+- [ ] [初恋 by txlyz888](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down291.htm)
+- [ ] [西外战记 by oscikeyah](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down299.htm)
+- [ ] [龍之夢 by 诡异の猫](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down315.htm)
+- [ ] [人生如遊戲 by Peter016852](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down316.htm)
+- [ ] [威尼斯之石 by Yurrica](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down310.htm)
+- [ ] [RM王 by 超级无敌小白+玄天](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down304.htm)
+- [x] [**流浪地球** by 美兽](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down283.htm)
+- [ ] [断点 by 孤云出岫](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down301.htm)
+- [ ] [一个爱情小故事 by kira](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down284.htm)
+- [ ] [一个混蛋的爱情故事 by 公子小白转身](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down295.htm)
+- [ ] [故乡的旋律 by 血腥蓝](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down334.htm)
+- [ ] [光之幻想-跟小任意一起看星空 by R.K.](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down313.htm)
+- [ ] [新月心想 by OCTSJimmy](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down296.htm)
+- [ ] [失意的老头 by 兰色枫叶](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down292.htm)
+- [ ] [重生 by 笨小孩](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down285.htm)
+- [ ] [WeiXun求学记 by weixun](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down287.htm)
+- [ ] [决战中考2006－时政专题 by 诗酒](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down318.htm)
+- [ ] [示范 by 特工齐齐](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down298.htm)
+- [ ] [CHAIN插曲之天台 by 梵尚](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down309.htm)
+- [ ] [摔碎的心 by 珑哥投胎了](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down294.htm)
+- [ ] [Adventure in Breif简单冒险 by 逆转之龙](https://web.archive.org/web/20080210044218/http://www.66rpg.com/htm/down307.htm)
+- [x] **流光倾泻的庭园** by 洋娃娃
+
+### 短篇游戏大赛2 2007/6
+- [ ] [迪朵的小小冒险 by 红世之徒](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down586.htm)
+- [ ] [龙骑士 by 风中萧萧](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down587.htm)
+- [ ] [就职大乱斗 by coolboyjie](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down588.htm)
+- [x] [看图猜成语 by 千年狐狸精](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down589.htm)
+- [x] [**灰姑娘恶搞版** by 水野·迪尔](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down590.htm)
+- [x] [**谁是RTP** by 柳柳 (2)](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down591.htm)
+- [ ] [超级玛莉RM版 by 真·ZERO](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down565.htm)
+- [x] [**无尽的思念** by 七夕小雨 (3)](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down592.htm)
+- [ ] [一生有你 by 果汁分你一半](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down593.htm)
+- [ ] [KOF同人游戏－真吾拜师记 by 雪翼飞马](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down594.htm)
+- [ ] [公主历险记 by 水野·迪尔](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down595.htm)
+- [ ] [奥拉谷 by 茶渡](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down596.htm)
+- [ ] [将军令 by kk制作室](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down597.htm)
+- [x] [**F.I.R.千年之恋** by 沉影不器](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down598.htm)
+- [x] 蓝眼传说 by 懒散王
+- [ ] [**MO2巴篇外传复刻** by 柳柳](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down600.htm)
+- [ ] [和杀生丸大人永远在一起 by 无忧](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down601.htm)
+- [ ] [彼望之岛 by BW周边工厂](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down605.htm)
+- [ ] [月轮 by seyila](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down604.htm)
+- [x] [**荒唐学院3** by 暴风之龙 (1)](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down603.htm)
+- [ ] [金色回忆永远的17班 by 残剑吟雪](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down606.htm)
+- [ ] [勇者鬥惡龍被引导的战士们 by rpgdragon](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down607.htm)
+- [x] [**星之所在** by 美兽](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down608.htm)
+- [ ] [外星群虾外传 by 真·姜维](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down609.htm)
+- [ ] [洛克人与大魔界村 by 真·ZERO](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down610.htm)
+- [ ] [闪避游戏 by a0995955874](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down611.htm)
+- [ ] [模拟学生七天 by wangbowei99](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down612.htm)
+- [ ] [墙 by ≮Dark≯乾坤](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down613.htm)
+- [ ] [Mohan大乱斗 by Mohan](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down614.htm)
+- [ ] [西露达的魔法实验 by 金圭子](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down615.htm)
+- [ ] [牧场物语卡莲版1.21版 by 越前リョーマ](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down616.htm)
+- [ ] [断点 by 彼岸海棠](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down617.htm)
+- [ ] [遇见了你RMTV by zhong](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down618.htm)
+- [ ] [亂世情緣 by 楓葉](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down619.htm)
+- [ ] 4.1行 by Davis
+- [ ] [少年行之大汉骠骑霍去病 by 东方尘寰](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down621.htm)
+- [x] [**三国赵云传** by 纯子](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down622.htm)
+- [ ] [**心曲** by 沉影不器](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down623.htm)
+- [ ] [Forget 1.00无声版 by 风就是前奏](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down624.htm)
+- [ ] [逃 by kira](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down625.htm)
+- [ ] [飒漫画吧大乱斗 by lxshww](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down626.htm)
+- [ ] [七夕 by 残阳泪珀](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down627.htm)
+- [ ] [**What If** by karEE](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down628.htm)
+- [ ] [第二年.站庆任务 by 66饭 (6R两周年站庆活动宣传片)](https://web.archive.org/web/20080210044252/http://www.66rpg.com/htm/down602.htm)
+
+### RMTV大赛 2006/8
+- [x] [最终幻想回忆版Eyes On Me by 浪漫天空](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down424.htm)
+- [ ] [秋天的童话 by 两只鱼](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down414.htm)
+- [ ] [曹操赤壁 by 浪咪咪](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down406.htm)
+- [ ] [星之所在 by yurrica](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down390.htm)
+- [ ] [神奇宝贝主题曲 by dzk910](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down386.htm)
+- [ ] [罪恶天堂 by 不哭死神](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down204.htm)
+- [ ] [银翼的魔术师——Dream X Dream by 陆亚](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down403.htm)
+- [ ] [不会动摇的唯一(《侦探们的镇魂曲》主题曲) by 工藤翼](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down423.htm)
+- [ ] [美人鱼 by 云舒音](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down402.htm)
+- [ ] [女孩子男孩子 by RockK](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down401.htm)
+- [ ] [恶搞！无敌铁金刚 by 诗酒](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down409.htm)
+- [x] [秋天不回来 by 两只鱼](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down391.htm)
+- [ ] [陌生人 by 张永](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down373.htm)
+- [ ] [高达Seed-Inkvo 中文版翻唱 by koalli](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down387.htm)
+- [ ] [RMTV七色糖果 by winsock](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down405.htm)
+- [ ] [姻缘 by 云舒音](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down399.htm)
+- [ ] [古灵精怪 by 田各](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down378.htm)
+- [ ] [God is A Girl by 兰色枫叶](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down388.htm)
+- [ ] [最可爱的人 by 美兽](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down379.htm)
+- [ ] [让这一分钟停留 by 还我麦克风](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down421.htm)
+- [ ] [来跳波尔卡舞 by 竹眉叶心](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down372.htm)
+- [ ] [追忆 by 吸血鬼王族](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down415.htm)
+- [ ] [我爱你 by king](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down389.htm)
+- [ ] [Field of hope by 彼岸海棠](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down371.htm)
+- [ ] [サヨナラ(再见) by 见光即死](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down410.htm)
+- [ ] [GloomySunday by 雷欧纳德](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down377.htm)
+- [ ] [和平世界 by Isaeva](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down407.htm)
+- [ ] [I Believe by rphy](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down422.htm)
+- [ ] Bring It All Back
+- [ ] [爱 by 浪咪咪](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down412.htm)
+- [ ] [心如刀割 by 小天](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down385.htm)
+- [ ] [我爱你那么多 by kira](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down383.htm)
+- [ ] [In the end by 斩月](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down376.htm)
+- [ ] [OVER by beizhican](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down392.htm)
+- [ ] [To mother by R.K](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down404.htm)
+- [ ] [交替 by 特工齐齐](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down400.htm)
+- [ ] [Spirit Dreams Inside by Yurrica](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down413.htm)
+- [ ] [FIND THE WAY by 小叽](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down419.htm)
+- [x] [等等等等 by king](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down411.htm)
+- [ ] [All About Us by 残。雪。](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down420.htm)
+- [ ] [endless road by cy仔](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down393.htm)
+- [ ] [White Lie In Black by 面粉](https://web.archive.org/web/20080210044223/http://www.66rpg.com/htm/down384.htm)
+
+### 话题游戏比赛 2006/12
+- [ ] [洛克人ZERO by 真·ZERO](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down483.htm)
+- [ ] [魔将.公主.勇者，恶搞三部曲 by 高兴](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down480.htm)
+- [ ] [童话 by K’](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down496.htm)
+- [ ] [神之泪珠 by 灵珠子](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down493.htm)
+- [ ] [勇者的旅途 by 愁怅](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down494.htm)
+- [ ] [一头喷火大怪龙的一天 by 金圭子](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down485.htm)
+- [ ] [人·魔 by zhong](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down490.htm)
+- [ ] [美女与野兽（上篇）：美人儿的化妆舞会 by Benavii](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down497.htm)
+- [ ] [勇者的传说 by 魔神之影](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down481.htm)
+- [ ] [【小游戏】世纪末de爱情 by 美兽](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down495.htm)
+- [ ] [拯救魔王大行动？ by 风雪优游](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down488.htm)
+- [ ] [青蛙王子与卖火柴的公主 by DEVILCRAFT](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down487.htm)
+- [ ] [贝尔留斯传说 by Ashter](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down489.htm)
+- [ ] [亲爱的公主 by frantice](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down484.htm)
+- [ ] [秘密 by 天玄梧轉](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down482.htm)
+- [x] [Fallen Devil by 张永](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down492.htm)
+- [ ] [My Hero by 尤莉斯＋夏希＋芙罗菲诺](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down491.htm)
+- [ ] [同心牌—话题游戏◎国王病了以后 by 玮哥投胎了 灵珠子](https://web.archive.org/web/20080210044247/http://www.66rpg.com/htm/down486.htm)
+
+### 冬季迷宫创意大赛 2007/12
+- [ ] 圣界光辉 by yangff
+- [ ] Maze Adventure by 殤。
+- [ ] 汤虪?的大劫难 by 蛋糕
+- [ ] **悬魂梯** by 玮哥投胎了 (2)
+- [ ] 腦殘迷宮 by a0995955874
+- [ ] 赤灿迷宫 by 包拯
+- [ ] 迷宫的囚犯 by 迅雷進
+- [ ] **越狱2** by 沉默的米饭团 (1)
+- [ ] **通天塔** by 风雪优游
+- [ ] 后宫养成计划 by 绝世☆妖镜
+- [ ] 拯救——“恐龙”公主 by 越前リョーマ
+- [ ] 大黄蜂 by 纯子
+- [ ] **遗忘之塔的阿尔西斯** by 回转寿司 (3)
+- [ ] 倒塌 by 匈魔剑
+- [ ] 龙骑士阿尔西斯 by darkten
+- [ ] 水星是怎样炼成的 by 天圣
+- [ ] GEMEER迷宫版 by soongui
+- [ ] 迷宫勇士 by yike
+- [ ] 勇者大富翁——月熠圣灵剑 by 掣星霁月
+- [ ] 今夜无眠之柳柳的探望 by IamI
+- [ ] **精灵传奇——监狱逃生篇** by 精灵使者
+- [ ] 迷宫 by 小叽
+- [ ] 七阕之塔 by 光￡郎
+- [ ] 谜 by 一块年糕
+- [ ] 机关迷宫 by 陆亚
+
+### 文字类游戏（TG）大赛1 2007/8
+- [ ] **惘然记** by 狒狒王 (3)
+- [x] EvanescenⅤ-天之谭 海之色 by 红世之徒
+- [x] 性格倒错的侦探们 by 越前リョーマ
+- [x] 回忆中的钢琴曲 by yue
+- [x] 残缺的碎片 by 一块年糕
+- [x] Forget by 风就是前奏
+- [x] 约定 by 七夕小雨
+- [x] 静候的约定 by 包拯
+- [x] 逆转裁判1_1/4 by 小光
+- [x] 老婆幻想 by 流星吹云
+- [x] **虫师·蛊梦之章** by 雷欧纳德 (1)
+- [x] 李尔王 by 十二月夜
+- [x] 落叶岛先行版 by fryrice
+- [x] 极限碰撞之公车悬案 by 向新
+- [x] 夜盗蝴蝶姬 by 绝世☆妖镜
+- [x] 寒蝉鸣泣之时 by Xxx64
+- [x] 柠檬水 by 水野·迪尔
+- [x] 流萤(18X+BL) by 第九界限
+- [x] 回梦-风花雪月 by 影北山人
+- [x] **去北方** by 洋娃娃 (2)
+- [x] 无色之空 by yurrica
+
+### 文字类游戏（TG）大赛2 2009/1
+- [x] 乱舞双龙之最后的回忆 by 凌冰
+- [ ] 猫眼石之恋 by 越前リョーマ
+- [ ] 亡者的史詩 by 木葬枫
+- [ ] 传颂之物 by 阌籽之籽
+- [ ] 贵阳市城市道路行道树调查 by TYPEWIND
+- [x] 学园天堂 by 天圣的马甲
+- [ ] 你结婚了 by 蛋糕
+- [x] 骑士の圣堂 by tranpol
+- [x] 凉宫春日的逆转 by 塑望
+- [x] 灵毁 by 舒逸萝莉女皇
+- [x] 菜园的童话 by 迅雷進
+- [x] **KOYASA-永昼之乡** by 水迭澜 (2)
+- [ ] 6R——电台 by 死圣
+- [x] **棺材下的世界** by 淚星 (3)
+- [x] 高考往事 by zhong
+- [x] **空陆** by 回转寿司 (1)
+
+### 66RPG化妆舞会 2008/8
+- [ ] 小迷宫游戏 by 谷渕弘之舌头
+- [ ] 这不是游戏·人参公鸡 by 近藤季洋之脑
+- [ ] 富甲天下之万国交易会 by 小岛秀夫之眼
+- [ ] 那4个人的故事 by 上田文人之尾
+- [ ] 汤汤国度的黑白AAA. by 坂口博信之腿
+- [ ] A by 山内一典之耳
+- [ ] 春梦清幽（15X） by 小林裕幸之蹄
+- [ ] J阿爾囧斯J by 宫本茂之头发
+- [ ] 走进森林回到家 by 河津秋敏之鳍
+- [ ] 打酱油 by 神谷英树之脾
+- [ ] 草丛奇遇 by 铃木裕之指甲
+- [ ] 对不起，我是个脑残者 by 野村哲也之嘴
+- [ ] 暴风宜春院 by 名越稔洋之恶 by 
+- [ ] 无伴奏安魂曲 by 高冢新吾之心
+- [ ] 水晶战记 by 谷口笃士之运
+- [ ] 吸血鬼出道 by 川岛隆太之肾
+- [ ] 机械时代 by 吉永匠之热血
+- [ ] Exit by 稻叶敦志之乐
+- [ ] 灰小伙的故事 by 樱井政博之肝
+- [ ] 你好，我是包菜 by 稻船敬二之爪
+- [ ] 逃出生天 by 北濑佳范之泪
+- [ ] 夺爱记 by 田尻智之鳞片
+- [ ] 许愿树 by 须田刚一之喉
+- [ ] 6R占卜店 by 船水纪孝之指
+- [ ] 特工阿尔西斯的假期 by 襟川洋一之手
+- [ ] 猜数字 by 冈本吉起之胃
+- [ ] 恶魔的勇者 by 中裕司之睫毛
+- [ ] 萤 by 三上真司之肺
+- [ ] 茶缘·AV（天使与吸血鬼） 冈田耕始之掌
+- [ ] 逃出小村子 by 岩田聪之翅膀
+- [ ] 阿尔西斯与6r三人 by 寺田贵信之怒
+
+### Title华丽大赛 2008/11
+- [ ] 《汉成攻略》的纯事件片头 by 迅雷進
+- [ ] 遗忘之神曲－弑神之殇 by 木葬枫
+- [ ] 禁地·任务 by 做游戏的新手
+- [ ] **喧哗舰长-目标地球** by v2sam
+- [ ] 叫什么名字呢-0- by kissye
+- [ ] Sa20大冒险 by yuxuan
+- [ ] BW勇敢世界 by 越前リョーマ
+- [ ] title by 小泡
+- [ ] 大话西游单机 by hgfor
+- [ ] **月千一夜** by 天圣的马甲
+- [ ] 头文字L by kaveil
+- [ ] 传奇世界横空出世 by Denis
+- [ ] 青鸟 by 艾伦沃克
+- [ ] TheCity by 二十二人
+- [ ] VX工程队 by 二十二人
+- [ ] 幻略 by 橡让
+- [ ] 圣剑 by Denis
+- [ ] 泡沫之夏 by 御灵
+- [ ] 雨后序曲 by 后知后觉
+- [ ] 灵光守护者RM by RXVincent
+- [ ] Quiet by 做游戏的新手
+- [ ] 你死了 by 蛋糕
+- [ ] RMXP的简洁Title by tiandi79
+- [ ] 魔法学徒之卡敖奇风云 by 绝世☆妖镜
+- [ ] 十年一剑情如梦 by kaveil
+- [ ] BidNacht by ━─音─━
+- [ ] Happy Tree Friends by slick
+- [x] 【华丽区】**猎人们的永远** by 英仙座
+- [ ] 东方幽见森 by 红世之徒
+- [ ] Last Exile by 铁浮屠
+- [ ] 青空物語 by 虚幻死神
+- [ ] 密码の破解 by 地龙
+- [ ] -谜- by kissye
+- [ ] 龙使传说-承接未完的梦 by TERENCE
+- [ ] 天使 by cmbljsw
+- [ ] 【新人区】**隋唐(vx)** by 沉影不器
+- [ ] 囧-title by 劍之飛龍☆
+- [ ] 神聖力量之冰封的神殿 TITLE by 殲滅天使·玲
+- [ ] RPG Maker XP by 3nξhα0_lim
+- [ ] 神の美容师 by ABC123
+- [ ] 云海仙境 by 地龙
+- [ ] 魏武挥鞭 by ximen1986
+- [ ] 火影无影级大决战 by 阌籽之籽
+- [ ] 枫之谷 by 曹天一
+- [ ] 拉尔夫战记 by zhong
+- [ ] 仲夏夜之梦 by 小月亮
+- [ ] 秦时明月别传·破天机 by 君迁子
+- [ ] 游游人生 by 精灵使者
+- [ ] Super robot girl war 1st by swabwind
+- [ ] 遗世天国之上,埃希提之歌 by 闪电
+- [ ] 梦之旅——骑士之章 by 涛怒
+- [ ] 异界·黄昏 by 残风￡幻月
+- [ ] The Demon's Seed by Fantasy幻想
+- [ ] 命运之羁绊 by 艾伦沃克
+- [ ] **幻想完美** by 灯笼菜刀王
+- [ ] 忘却2010纯Title by 地龙
+- [ ] 苍穹——天空的妄想 by 橡让
+- [ ] 彩虹城堡 by 精灵使者
+- [ ] 精灵传奇-深海基地篇 by 精灵使者
+- [ ] 【新人区】**柳阿列传** by 柳之一
+- [ ] **BAD LAND** by 张永
+- [ ] 真实的泪 RMXP版 by 冰城飞狐
+- [ ] 【华丽区】**Rise On Green Wings** by 莳衍灵儿
+- [ ] 辛德雪拉传说 泪光之痕 by cinderelmini
+- [ ] 术法之都 by 水迭澜
+- [ ] 魔导士战记 2 -- 奥兰加大陆之梦 by slick
+- [ ] VX纯事件简洁标题 by 塑望
+- [ ] 幻剑传说-The lenged of Fantasize Sword by 玄月
+- [ ] 邪恶灵感之Title by 疯鸡瘫圣老贱
+- [ ] 名侦探柯南、战栗的乐谱 by 越前止まる殇
+- [ ] 凉宫春日的忧郁 by 塑望
+- [ ] **空之轨迹~新世界** by 小月亮
+- [ ] **first kiss** by 小叽
+- [ ] 再见萤火虫 by 沉影不器
+- [ ] 零之血嗜 by 雷欧纳德
+- [ ] 记忆碎片2之虚幻 by graykid
+- [ ] 【华丽区】**史莱姆** by 匈魔剑
+- [ ] 【新人区】**吞食天地2nd** by hide秀
+- [ ] 仙剑3外传星璇篇 by 御灵
+- [ ] ゴール! 复刻FC! 热血足球RM by hide秀
+- [ ] 水浒Q传-title by 星晨
+- [ ] 梦想世界 by 柳之一
+- [ ] **ProjectClear·Legend of Duty** by 玄天
+- [ ] ~~异年代Ⅱ by wozx922an~~
+- [ ] ~~游戏王 by hitlerson~~
+
+### 短篇游戏大赛3 2008/6
+- [ ] 谜乱 by 11jr
+- [ ] 死亡后的笑容 by 水鸡三毛老大
+- [ ] OZ大乱斗歪传 by 谢拉卡姗娜
+- [ ] **江南** by 天圣的马甲
+- [ ] 觉☆醒 by 天野天夜子
+- [ ] 英雄之心 by 多於的回憶
+- [ ] 纯脚本游戏 by yangff
+- [ ] A by lxshww
+- [ ] 雨 by 皇鹧玲
+- [ ] 龙使传说前传-黑魔龙战役末世之录 by TERENCE
+- [ ] 倚天 -永远的纪念 by Promise
+- [ ] 櫻花树下的约定 by 雷特爾
+- [ ] LOVE 大追踪 by 瘫子
+- [ ] 蓝灵儿 by cmbljsw
+- [ ] **迷宫——阿尔西斯的末日** by 泡面之侠
+- [ ] 吃肉球 by xiarongshan
+- [ ] **金属文明** by 零度·幻
+- [ ] 世界需要热心肠 by lxshww
+- [ ] 名侦探克里斯——人形馆杀人事件 by 地狱的蓝炎
+- [ ] 写检查传奇 by 橡让
+- [ ] Redundant Memories by 多於的回憶
+- [ ] 城市摩天楼 by Beside
+- [ ] 奥运火炬手 by ★_茄孓
+- [ ] **变奏曲** by darkten
+- [ ] 勇者培训班 by lesliya
+- [ ] 我们全家去春游 by 身之察察
+- [ ] 永恒之国度 by 殲滅天使·玲
+- [ ] 千言万语 by 迅雷進
+- [x] **变形记** by 回转寿司 (1)
+- [ ] 流浪猎人 by 浪使者
+- [x] **世纪de勇者** by 越前リョーマ
+- [ ] 小怪历险记 by 地狱的蓝炎
+- [ ] Clannad_OP メグメル by 江忆痕
+- [ ] 云之彼端 —— 邂逅 by hitlerson
+- [x] **暴风便利店** by 暴风の龙 (1)
+- [ ] 密室脱出 by v2sam
+- [ ] 宿命传说-剑士之梦 by asperta
+- [ ] 神一般的存在 by 橡让
+- [ ] 扁鹊的故事 by worigmtm
+- [ ] 踩雷子 by hellway
+- [x] **6R婚礼** by 柳之一 (1)
+- [ ] 谢谢你坦克 TankU by wy29
+- [ ] 奇迹部屋·第一章·城 by 虫子
+- [ ] 火影·外传 by 劍之飛龍☆
+- [ ] 超级医生RM by slick
+- [ ] VX工程队 by iamtenten
+- [ ] 十字之谜 by 陆亚
+- [ ] **6R客栈** by 七夕小雨
+- [ ] 我的家 by 精灵使者
+- [ ] 转悠悠 by 阳光下的月色
+- [ ] RM日历 by 凌冰
+
+### 短篇游戏大赛4 2009/6
+- [ ] **彩虹** by 塑望
+- [ ] cake的挑战书 by 蛋糕
+- [ ] **我们的天堂** by 帅气的袋鼠
+- [ ] 电脑线圈-ACT+天空的碎片RMTV by 陆亚
+- [ ] **勇士成长笔记** by ☆流星☆~~~
+- [ ] **劫狱英雄II** by 玮哥投胎了 (1)
+- [ ] 神乐游 by Yesot
+- [x] **翔之翼Praeludium-终与始的序曲** by kakarot (2)
+- [ ] 对话 by aq5888123
+- [ ] **水野事务所～依叶前奏曲～** by 水野·迪尔 (3)
+- [ ] 火影忍者外传 by 963096852
+- [ ] CLH传奇——序章 by 死圣
+- [ ] 活墓 by 仙`飛狐
+- [ ] 敲炸弹 by 认真的学
+- [ ] 6R魔方 by slick
+- [ ] **校园英雄** by 暴风の龙
+- [ ] **萤之光AD-序章** by 越前リョーマ
+- [ ] 时空王爵 by 青羽
+- [ ] 记忆塔 by 认真的学
+- [ ] 时之碎痕 by 魔神之影
+- [ ] 小小Ｒ剧 by 迅雷進
+- [x] **伸手党传奇3——解密篇** by 橡让
+- [ ] **雪色** by 懒散王
+- [ ] F1方程式大赛 by slick
+- [ ] 新武林群侠传之山海奇谈 by 风中承诺
+- [ ] 君生我未生，我生君已老 by 枫起
+- [ ] 神天传奇 by 风中承诺
+- [ ] 太极宗师 by 阅读理解
+- [ ] 神魔幻·修罗 by 凌冰
+- [ ] 恶搞死神棒棒糖篇 by 叫我女皇殿下
+- [ ] 一位贪官的日记 by 天翼的马甲
+- [ ] 小小游戏2 by 未命名
+- [ ] THE 6R监狱 by V2SAM
+- [ ] 我们的过去 by 叛逃の妖精
+- [ ] Kof外传 by monsterhero
+- [ ] 传颂之物之白皇 by 阌籽之籽
+- [ ] RM推推 by 苏苏
+
+### 短篇游戏大赛5 2010/6
+- [ ] 【其他】恨魂 by 曹天一
+- [ ] 【其他】**廉想的逃脱** by 玮哥投胎了
+- [ ] 【RPG】完 by Distoy
+- [ ] 【其他类】馒头舞团 by 曹天一
+- [x] 【RPG】**吞食天地1ST** by hide秀
+- [ ] 【R剧】堕落者的颂歌 by 沈孤
+- [ ] 【RPG】拉尔夫生死记 by 小鱼子
+- [ ] 【ACT类型】The Unknown Ball by baozugong
+- [ ] 【八卦】☆心灵感应★ by 菜鸟飞呀飞
+- [ ] 【RPG】梦境之光 by sqj1982
+- [ ] 【角色扮演】魔王再临 1.06版 by ROCKMANZ
+- [ ] 【解密+战斗】恶梦 by 582892445
+- [ ] 【7.17未完成版】梅蒂因否歌 by 1097811376
+- [ ] 【RPG】幻想世界 by 木马
+- [ ] 【其他】宫吧苍穹录前传 by 宫吧苍穹录
+- [ ] 【R剧】月光传说之闪亮的明星 by 89977546
+- [ ] 【ARPG】66RPG复活记 by 柳则良
+- [ ] 【RPG】火影剧情短暂篇 by 阌籽之籽
+- [ ] 【其他】世界末日之巨大陨石 by 704018922
+- [ ] 【ACT】**211.5** by baozugong
+- [ ] 【RPG】**在劫难逃—真人版** by zyshra
+- [ ] 【其他】单调……随机数应用…… by kxx1997
+- [ ] 【其他】囧物来临~囧神传说 by a554187203
+- [ ] 【RPG】正义的人，至此止步。 by eeeeewsw
+- [ ] 【RPG】世界末日1.0 by END66RPG
+- [ ] 【RPG】猎魔人之梦魇 by 辛甘
+- [ ] 【ARPG】星之卡比星之剑 by 47731089
+- [ ] 【R剧】我不做大哥很多年 by 路人
+- [ ] 【解迷类】 **鬼屋历险记** by 皓影清风
+- [ ] 【解密类】你有病啊之跟随葫芦娃的冒险 by 蛋糕
+- [ ] 【RPG】猎魔人之精变 by 辛甘
+- [ ] 【ARPG】黑暗密咒 by §神§
+- [ ] 【小游戏+类似FPS射击】**RM版反恐精英！** by Burn
+- [ ] 【SLG策略】**指上谈兵V1.2** by 风中承诺
+- [ ] 【小游戏】Landstalker by load_ing
+- [ ] 【其他】 蝶儿和wg的婚礼 by s554187203
+- [x] 【互动R剧】Cathedral by iShover
+- [ ] 【R剧】Sweet工作室的由来 by aq5888123
+- [x] 【小游戏】**黄金矿工RM版** by 认真的学
+- [ ] 【解迷】**蛋疼勇者** by 悠悠炸弹
+- [ ] 【其他】是人就上100层 by a123669520
+- [ ] 【RPG】神界危机二之神枪手 by 南宫无尘
+- [ ] 【RPG】板砖之作-无喜感无内容系统烂之ZHUXIAN by kikudukuri
+- [ ] 【RPG】圣斗士征途1-龙族的灭亡 测试版 by 尕尕兔
+- [ ] 【ACT】**植物VS.僵尸同人** by v2sam
+- [ ] 【RPG】无限恐怖-clone by westbugs
+- [ ] 【解谜】在劫难逃 by zyshra
+- [ ] 【小游戏】吃豆豆VX by a123669520
+- [ ] 【RPG】梦 体验版 by pohuaizhe0
+- [ ] 【脑残射击类】 名字 渣人制作的渣游戏 by 宛如疾风
+- [ ] 【ARPG】汤圆编年史 汤凤雏外传 by lxshww
+- [ ] 【R剧】尘封 黄昏的华尔兹 Twilight Waltz by z121310
+- [ ] 【其他】多啦A梦降临异界！ by a554187203
+- [ ] 【其他】蛋小伙的人机交互之哈哈哈哈 by 但搞
+- [ ] 【RPG】**THE雷顿与四季之屋 序** by 塑望
+- [x] 【RPG】**勇士的约定** by cinderelmini
+- [ ] 【R剧】你好，夏天 by 虫子
+- [ ] 【RMTV】鸟的心愿 Les rêves de l'oiseau by pigger123
+- [ ] 【ARPG】极限挑战小游戏 by 尕尕兔
+- [ ] 【解谜】大逃亡还有心情钓鱼？ by 时光机
+- [ ] 【RPG】时之轮回 by W.Q.C.
+- [ ] 【休闲】名字大作战……真的小游戏而已 by koyonuji
+- [ ] 【RPG】八大豪侠之恶魔的复苏 by 时光机
+- [ ] 【其它】魔塔牌答题秀 by 皮卡猫
+- [ ] 【RPG】**异时空传说·序章——永动之轮** by guishenling
+- [ ] 【策略射击】**超级几何** by 魔神之影
+- [ ] 【RPG】屎 by ~屎猴子~
+- [ ] 【ARPG】佐助斗恶龙 第一章 by lshdsg
+- [ ] 【RPG】勇者传说 by 时光机
+- [ ] 【RPG】参观工厂 by maliut
+- [ ] 【RPG】董的历程3 第一章 by 琉星
+- [ ] 【RPG】**永恒传说** by 聖月靈
+- [ ] 【RPG】未日传说2012 by lzy136188230
+- [ ] 【RPG】大雄的梦幻之战 by 行风之影
+- [ ] 【RPG】**辛德雪拉传说 - 泪光之痕 第一章** by cinderelmini
+- [ ] 【其他】一个感人至深的故事 by 猫猫~
+- [ ] 【RPG】**铳梦** by quanhome
+- [ ] 【RPG】Sweet 大乱斗 体验版 by 流星的瞬间
+- [ ] 【RPG】物攻世界V1.02 by lifblood
+- [ ] 【ACT】蘑菇党大作战！ 无剧情版 by 流星的瞬间
+- [ ] 【角色扮演】**灵毁online** by 高须小龙
+- [ ] 【RPG】**龙骑士之魂** by 包拯
+- [ ] 【STG】**天道 第一章** by 玻璃猫
+- [ ] 【RPG】火影X传 by 852619209
+- [ ] 【RPG】**洛奇同人版1ST-迪尔科内尔！** by jyx520520
+- [ ] 【RMTV】萤火虫 by scrap
+- [ ] 【RPG】永远的初一七 by feihong
+- [ ] 【解谜】**杀手的天国** by 脂肪大人
+- [ ] 【RPG】猫狗大战 by 传说中的新人
+- [ ] 【RPG】归 by 忍也忍
+- [ ] 【RPG】创世征程 by 忍天恒
+- [ ] 【RPG】净水之泉 by tantihao
+- [ ] 【R剧】剑神传说4章首发 by 逍遥仙君
+- [ ] 【RPG】约定 by 超哥
+- [ ] 【解谜】走出试玩版 by 逍遥仙君
+- [ ] 【其他】七拼八凑的故事 by 逍遥仙君
+- [ ] 【RPG】**梦想逍遥游之玉石奇缘** by 尘羽泯 (3)
+- [ ] 【RPG】野蛮の战士 by h847670898
+- [ ] 【其他】七彩泡泡 by Beside
+- [ ] 【其它】阿尔西斯的新的冒险 by 听海
+- [ ] 【RPG】战斗吧，阿尔西斯2. by gogocake
+- [ ] 【解谜】**灵魂回路预告版** by 天朝坦克
+- [ ] 【解谜】小瓜拉侦探集之消失的尸体 by chinacai
+- [ ] 【Ｒ剧】贱客茶馆 by hxm
+- [ ] 【RPG】混沌战记 by hxm
+- [ ] 【RPG】**勇者与乌龙** by 雪翼飞马
+- [ ] 【RMTV剧】我没那么帅 by 越前リョーマ
+- [ ] 【RPG】勇闯怪物城 by RPGjiangnan
+- [x] 【SLG】**格斗纹章** by 柳柳 (1)
+- [ ] 【RPG】**最终少年纪** by huangaidehua
+- [ ] 【ACT】 **男人鉴定3合1** by slick
+- [ ] 【AVG】18X 逃出房间2——逃出初晓的房间 by ycscycsc
+- [ ] 【RPG】暑假故事 by 纸飞机哟
+- [x] 【R剧】**This is my story** by darkten (3)
+- [x] 【RPG】**世纪de勇者II-荧光羁绊** by 越前リョーマ (2)
+
+### 短篇游戏大赛6 2011/6
+- [x] 【R剧】**被英雄——Be designed as a hero** by 橡让 (2)
+- [ ] 【解谜】五道杠 by 脂肪大人
+- [ ] 【小游戏】Ninjump by yangff
+- [ ] 【RPG】找呀找呀找萝卜 by nancyzhl
+- [ ] 【RPG】Tales of terminal~命运的交响曲 by 高须小龙
+- [ ] 【R剧】怪物F by 虫子
+- [ ] 【R剧】你结婚了2 by蛋糕
+- [ ] 【RPG】天堂有路~多重刻印 by 诗画双绝
+- [ ] 【解谜】异界逃生 by 370420939
+- [x] 【小游戏】**东方水晶乡～Fancy Jewel Adventure** by liqunsz
+- [ ] 【RPG/SLG】龙使传说 - 承接未完的梦境 byTERENCE
+- [x] 【R剧】**丧尸围城** by 心雪
+- [ ] 【AVG】A of leaf-A之叶 by 蛋糕
+- [ ] 【解谜】疯院魔影--食人兽传说 by fyfuture
+- [ ] 【解谜】机械迷城 by 传说中的新人
+- [ ] 【解谜】幽灵事件 by s196050
+- [ ] 【RPG】轩辕剑外传之魔神战争 by 步兵中尉
+- [ ] 【RTS】**史莱姆斗勇者** by 一瞬间的幻觉 (3)
+- [ ] 【ARPG】杰克大逃亡 by RPGmaster
+- [x] 【RPG】**狐族·起源** by 狐狸 (1)
+- [ ] 【RPG】正与邪 Good And Evil by 退屈￡无聊
+- [x] 【卡牌】**萌战卡** by xjdxwc01
+- [ ] 【RPG】oneworld by edmund
+- [x] 【RPG】侍御木_秋叶 青之印 by cinderelmini
+- [ ] 【RPG】寻忆 by tantihao
+- [ ] 【RPG】魔王塔大逃亡 by 彼岸海棠
+- [ ] 【RPG】勇士的崛起 by guaneva
+- [ ] 【RPG】**哆啦A梦——大雄的RPG大冒险** by v2sam
+- [x] 【养成】**牛仔物语** by 越前リョーマ
+- [x] 【R剧】跳鱼潭 by candy2266
+- [ ] 【RPG】魔塔勇士 by chenjiaxiang012
+- [ ] 【ARPG】**在劫难逃2.0** by zyshra
+- [x] 【RPG】**一个能打的也没有4** by Yui
+- [ ] 【ACT】山脊战车 by slick
+- [ ] 【RPG】阿尔西斯的崛起 by guaneva
+- [ ] 【RPG】灭绝2-灵魂之光 by 许诺言
+- [x] 【AVG】灵寄者·幻灭 序章·雨中的人偶师 by 月下耶鲁夫
+- [ ] 【战略】召唤战争-自由之心 by px.凤翔九天
+- [ ] 【ARPG】勇闯石阵 by 小鱼子
+
+### 《世界末日》主题游戏制作大赛 2012/2
+- [ ] 末日 by 逍遥仙君
+- [ ] 末日传说2012 by lzy136188230
+- [ ] 洛克人EXZ-末日英雄篇 by 47731089
+- [ ] 末日の世界 by 不会脚本
+- [ ] 二逼青年的救赎 by ksharp8
+- [ ] You can (not) prevent by 仲秋启明
+- [ ] 消失++ by wyxwyx2
+- [ ] 穷途末路 by 无双sxa
+- [ ] 制裁者与被制裁者 by 怒雪压孤城
+- [ ] 瓦尔基丽世界 by 空の翼
+- [ ] 末日妹子物语 by Yui
+- [x] **我看见** by 脂肪大人 (1)
+- [ ] 末世默示录 by guaneva
+- [ ] 洛迦战记 by qq1207807100
+- [ ] 世界末日：万兽无疆 by BS包仔
+- [ ] 这个悲哀的世界 by ilmynasan
+- [ ] 最后的封印 by 黯色之雾
+- [ ] 战胜末日 拉尔夫篇 by 神秘影子
+- [ ] 黄昏？还是黎明 by 梦回碧落
+- [ ] 安哥拉小镇 by 永远の路克酱
+- [ ] 2012 by 李光兆
+- [ ] 蛋糕的末日 by 蛋糕
+- [ ] 毁灭的世界 by 韩云溪
+- [x] **Judgement Eve .审判の夜** by 越前リョーマ (3)
+- [ ] 血色蔓延 by 诗情画忆
+- [ ] 暗天 by lianran123456
+- [ ] 末日妹子前传 by 怕鼠的猫
+- [ ] 就算世界末日 by cxpagy
+- [x] **Glimmer/Lost Paradise** by 中野梓 (2)
+- [ ] 明天 by peterburg
+- [ ] 末夜 by 凌童鞋
+- [ ] 末日的葬礼 by 消失的三千
+- [ ] 去屎吧，世界 by 乏味一
+- [ ] 世界末日 by 526832541
+- [ ] Green shoots of hope by 月下耶鲁夫
+- [ ] 灰色的彩虹 by 猫猫咪呀
+- [ ] 末日蛇 by enghao_lim
+
+### 短篇游戏大赛7 2012/6
+- [x] 【成年组】**默砂之歌** by 迷糊的安安 (2)
+- [x] 【成年组】**小径分岔的花园** by 回转寿司 (1)
+- [x] 【成年组】**永乐地** by 绿野灰
+- [x] 【成年组】**纳兹和丽莎娜** by king
+- [x] 【成年组】**妖精的尾巴.红莲之怒** by 天使喝可乐 (3)
+- [x] 【成年组】某科学的RPG游戏 by zxsean
+- [x] 【成年组】翠梦ProjectIMPACT by rvceric
+- [x] 【成年组】幻靈社——道高一尺魔高一丈 by 内伤君
+- [ ] 【成年组】**求生之路** by zyshra
+- [ ] 【成年组】Sediyer and Essexli by 仲秋启明
+- [x] 【成年组】苍神录-穹侠山河?序章 by っ盛尘、恋
+- [x] 【成年组】恨相随 by 特特星人
+- [ ] 【成年组】<RO同人>仙境传说魔物篇 序章 by ROM
+- [ ] 【成年组】梦之水族箱 by 一瞬间的幻觉
+- [x] 【成年组】铜魂 by luzhi9
+- [x] 【成年组】**冒险骑士团** by 丿梁丶小柒
+- [x] 【成年组】YuMe by 迅雷進
+- [ ] 【成年组】史莱姆斗勇者II by 一瞬间的幻觉
+- [x] 【成年组】思蜀 by sleepslow
+- [x] 【成年组】The Classroom by 精灵使者
+- [ ] 【成年组】狩猎！狩猎！ by 笔名：玥阳
+- [x] 【成年组】Zero Fantasy -- 空之诗 by Mic_洛洛
+- [x] 【成年组】邪人组传说 by TBM邪恶天才
+- [ ] 【成年组】音律的物语1&2 by 鄢世阳
+- [ ] 【成年组】冒险物语 by 火烧兔子
+- [ ] 【成年组】Wisdom Without Answers by lnzhaotian
+- [ ] 【成年组】真心 by 唐门草楹
+- [x] 【成年组】水晶战记 by 爆焰
+- [x] 【成年组】千月若幽 by 唐吉童话
+- [ ] 【成年组】表里 by junsjuns
+- [ ] 【成年组】银魂同人rpg魔塔小游戏 by 动漫之神的右手
+- [ ] 【成年组】冰雪之森的试炼 by s196050
+- [x] 【成年组】银龙战纪——银龙殇 by asdsd455
+- [ ] 【成年组】招聘世界 by G梦魇
+- [x] 【成年组】For Tomorrow by 31307dream
+- [ ] 【成年组】libra-I：CECILIA by yuminhao007
+- [ ] 【成年组】迷路的兔耳娘 by 凌童鞋
+- [ ] 【成年组】玄 by 幻想中的鸡蛋
+- [x] 【成年组】世界上最后两个男人 by filia2012
+- [x] 【成年组】怪物的历史书 by 喵呜喵5
+- [ ] 【成年组】猫耳娘的逆袭 by ︶ㄣ牛排ぶ
+- [ ] 【成年组】爆菊杀人魔番外篇 by 绿川小光
+- [ ] 【成年组】迷之征途--序章：截杀 by @冷剑少侠
+- [ ] 【成年组】幻想大冒险 by xjdxwc01
+- [ ] 【成年组】爱：爱的意义 by 一流浪人
+- [ ] 【成年组】RM竞技场 by 527391078
+- [x] 【成年组】“小挂”去考试 by 怕鼠的猫
+- [x] 【成年组】The Tale of XXX by Neet酱
+- [ ] 【成年组】猎魔人：十年骗局 by lvkeai
+- [ ] 【成年组】梦之旅 by 炫宇
+- [ ] 【成年组】超级玛丽——公主又不见了 by woodvvv
+- [ ] 【成年组】开始了！我的天界学院生活 by 狗宝咸菜
+- [ ] 【成年组】魔法剑侠传 by 萧梦如
+- [x] 【成年组】坚宝斗恶魔 by W.Q.C.
+- [ ] 【成年组】海的一半 by hotmaker
+- [ ] 【成年组】A Story of Love by maju_saka
+- [ ] 【成年组】布吉岛 by ORANGI
+- [ ] 【成年组】火星钓鱼_挑战潜水员 by typhon_524
+- [ ] 【成年组】灭世诀 by 请学我的浪漫
+- [x] 【成年组】仿超级玛丽引擎——奋勇闯关 by fonky
+- [x] 【成年组】川音客栈 by 尐度
+- [x] 【成年组】闪耀在那空中美丽的 by ilmynasan
+- [x] 【萝莉正太组】**guardian knight** by 皮卡星 (1)
+- [x] 【萝莉正太组】天命传 by 退屈￡无聊
+- [x] 【萝莉正太组】**世纪de勇者II 灵魂平原** by 越前リョーマ
+- [x] 【萝莉正太组】**草泥马战记** by 八宝粥先生 (3)
+- [x] 【萝莉正太组】**冰结界-亡者沉默的真言** by 小镜子
+- [ ] 【萝莉正太组】SOW by mtr
+- [ ] 【萝莉正太组】未完之声2 by FHNBHJ
+- [ ] 【萝莉正太组】公园的居民 by 栀耳
+- [x] 【萝莉正太组】时代低谷Ⅱ 崩坏的幻想 by ML4455739
+- [ ] 【萝莉正太组】**梦境回忆录** by 小强无敌 (2)
+- [ ] 【萝莉正太组】寻找艾奥森 by 神蛋威武
+- [x] 【萝莉正太组】交错的记忆·表之章 by 水野·迪尔
+- [ ] 【萝莉正太组】Lazurite Night by 杏仁与核桃
+- [ ] 【萝莉正太组】天亮说晚安 by 李光兆
+- [ ] 【萝莉正太组】Maria&Mario by maliut
+- [ ] 【萝莉正太组】三中之冲出亚马逊 by 琅琊魂殇
+- [ ] 【萝莉正太组】放学 by 约修亚_RK
+- [ ] 【萝莉正太组】神魂列车 by yychchhh
+- [ ] 【萝莉正太组】勇者危机 by 爱尔伯塔
+- [ ] 【萝莉正太组】[哔——]音未来 by bjcwgqm0
+- [ ] 【萝莉正太组】战争血统后传 by yychchhh
+- [x] 【萝莉正太组】买手机 by feizhaoxue2001
+- [ ] 【萝莉正太组】止痛药 by 545646733
+- [x] 【萝莉正太组】愚蠢的人类 by 猪衰衰
+- [x] 【萝莉正太组】胡二的暑假 by feizhaodan
+- [x] 【萝莉正太组】野比大雄的生化危机 by 605533120
+- [x] 【萝莉正太组】卡伦大陆 by 小米LV10
+- [ ] 【萝莉正太组】古墓探险之古老的毁灭咒预告章 by Password
+- [ ] 【萝莉正太组】勇者的悲哀 by kfflX
+- [ ] 【萝莉正太组】相声经理 by abc1999611
+- [ ] 【萝莉正太组】岛国奇遇 by Mr.Jin
+- [ ] 【萝莉正太组】剑 by 囧小杰
+- [ ] 【萝莉正太组】被羊追的阿尔西斯 by 囧灬王阳
+- [ ] 【萝莉正太组】高考大作战 by 刘某的假面
+- [ ] 【萝莉正太组】小幽灵大冒险 by 神の葱仔
+- [ ] 【萝莉正太组】雅典娜的启程 by kongzhilan0.
+- [ ] 【萝莉正太组】太监养成计划 by 657875930
+- [ ] 【萝莉正太组】镇压 by lianran123456
+- [ ] 【萝莉正太组】奥运之路 by 梦想学生
+- [ ] 【萝莉正太组】铸剑者 by 神秘影子
+- [x] 【萝莉正太组】战争血统 by yychchhh
+- [ ] 【萝莉正太组】女神的世界 by 女神の使徒
+- [ ] 【萝莉正太组】阿尔西斯村保卫战 by necpoc
+- [ ] 【萝莉正太组】神偷宝典 by 小学生
+- [x] 【萝莉正太组】墨魂 by maer
+- [ ] 【萝莉正太组】新的轮回 by abc1999611
+- [ ] 【萝莉正太组】勇者与NPC by penzal
+- [ ] 【萝莉正太组】喵喵战纪 by 猪头三~
+- [ ] 【萝莉正太组】勇者斗魔王 by 暗黑大魔王
+- [ ] 【萝莉正太组】美少女答题乐 by 657282177
+- [ ] 【萝莉正太组】莫夏年华 by 超越丶
+- [ ] 【萝莉正太组】监狱迷城 by 582892445
+- [x] 【萝莉正太组】跨时代冒险 by hy4783661
+- [ ] 【萝莉正太组】天堂一日游 by lyz
+- [ ] 【萝莉正太组】放下你的武器 by fxwd
+- [ ] 【萝莉正太组】小荣の穿越传说 by X宝
+- [ ] 【萝莉正太组】2B的故事 by c24009
+- [ ] 【萝莉正太组】坑爹屋 by 王翊尧
+- [ ] 【萝莉正太组】灵魂记忆 by hellchild
+- [ ] 【萝莉正太组】选择 by 神秘影子
+- [ ] 【萝莉正太组】异次元校园 by 蒋宏伟
+- [ ] 【萝莉正太组】死神来了 by 柳柳马甲
+- [ ] 【萝莉正太组】推理笔记 by abc1999611
+- [ ] 【萝莉正太组】战争之花 by abc1999611
+- [x] 【萝莉正太组】Azogi by kfflX
+- [ ] 【萝莉正太组】吃豆 by 小学生
+- [x] 【彩虹文字组】**长庚残月（剑网三粮食同人）** by 君迁子 (1)
+- [ ] 【彩虹文字组】**初恋** by zx工作室2 (2)
+- [ ] 【彩虹文字组】梦·月 by 幻想中的鸡蛋
+- [ ] 【彩虹文字组】浮屠 by evermilk
+- [ ] 【彩虹文字组】银魂之空白篇 by peterburg
+- [ ] 【彩虹文字组】**灵寄者幻灭 春之篇章 -雨滴少女.上-** by 月下耶鲁夫 (3)
+- [x] 【彩虹文字组】你所不知道的故事·极乐鸟篇 by 天见狂儿
+- [ ] 【彩虹文字组】天使的孩子 by dollish
+- [ ] 【彩虹文字组】崩坏的世界 by boloko222
+- [ ] 【彩虹文字组】冰封之夜 by 喵喵小姐
+- [ ] 【彩虹文字组】昆仑梦 by peterburg
+- [x] 【彩虹文字组】梦见山 by 片翼贤者
+- [ ] 【彩虹文字组】俺家巡音不可能这么可爱 by 鄢世阳
+- [ ] 【彩虹文字组】另一个爱情故事 by 呼吸机
+- [x] 【彩虹文字组】After Zero 左半边的括号 by 羽络·馨晨
+- [ ] 【彩虹文字组】一夜的圣诞老人 by boloko222
+- [ ] 【彩虹文字组】风之章 by stvil
+- [ ] 【彩虹文字组】最好的结局 by 很苦恼的诺诺
+- [ ] 【彩虹文字组】人鱼、海妖 by 白半枫荷
+- [ ] 【彩虹文字组】妞妞 by secretkeeper
+- [ ] 【彩虹文字组】灰蝴蝶 by 很苦恼的诺诺
+- [ ] 【彩虹文字组】梦里也要在一起 by ksharp8
+- [ ] 【彩虹文字组】~苍月い幻想 by wcyc
+- [ ] 【彩虹文字组】向往魔王的光明神官·序 by a554187203
+
+### 短篇游戏大赛8 2013/6
+- [ ] 【RM组】传说之剑 by 暗黑大魔王
+- [ ] 【RM组】江流村 by 欧阳玲珑
+- [ ] 【RM组】勇者物语 by ritud
+- [x] 【RM组】打倒广告机 by 我是E只广告机
+- [x] 【RM组】WhoIsTheDead by whitewield
+- [ ] 【RM组】黄金帝国 by 猫猫咪呀
+- [ ] 【橙光组】黑暗弥漫 by 梦璃
+- [x] 【RM组】回忆碎片 by 湛蓝de海
+- [x] 【RM组】龙舌兰鬼屋 by 朽木布可凋夜
+- [ ] 【RM组】两个苹果的沙漠 by 时空之沙
+- [x] 【RM组】信仰pro by xxxannn
+- [x] 【RM组】救贖者 by Dixie
+- [x] 【RM组】改造人 by hardy419
+- [ ] 【RM组】生化终结者 by 1358840591
+- [ ] 【RM组】火影忍者晋级赛 by 1020883511111
+- [x] 【RM组】垂直打击 by 医务兵
+- [ ] 【RM组】Unnamed by 魔王魂
+- [x] 【RM组】真实的世界 by H·H·Y
+- [ ] 【RM组】帝妈的冒险 by 乱取个用户名
+- [ ] 【橙光组】离别钢琴奏鸣曲
+- [x] 【RM组】无旗 by 李小喵
+- [x] 【RM组】魔法师 by 长天仙人
+- [x] 【RM组】五个人故事 by 490832999
+- [ ] 【橙光组】凛冬雪之梦
+- [x] 【RM组】城郊的绿屏障 by a19001009
+- [ ] 【RM组】大学丧尸 by 狐又
+- [x] 【RM组】赶选 by end55rpg
+- [ ] 【RM组】梦·紫 by 脚本盲
+- [x] 【RM组】汤圆编年史 by 蛋糕
+- [x] 【橙光组】系统娘乱入生活
+- [ ] 【RM组】鸡毛信 by 恶魔般的天使
+- [ ] 【橙光组】罗韬外传 by AceCandy
+- [ ] 【橙光组】御用饭桶 by claa
+- [ ] 【RM组】来玩场游戏 by daosi
+- [x] 【RM组】Atlas Legend by liminglun
+- [x] 【RM组】缸中之脑 by wx1y
+- [ ] 【RM组】Girl Game by 猪头三~
+- [ ] 【橙光组】国产电车狼
+- [x] 【RM组】**AZ零物语** by cinderelmini (1)
+- [ ] 【RM组】Mice counter by 子弹君
+- [x] 【RM组】**美梦与诗** by 海贼东东 (3)
+- [x] 【RM组】杀人速写 by 暗黑boss
+- [x] 【RM组】火柴世界 by feizhaodan
+- [ ] 【橙光组】让自己变强 by 时空之沙
+- [ ] 【橙光组】帝王养成计划 by 24934207
+- [x] 【RM组】最终梦想1 by 星月铃音
+- [ ] 【橙光组】仙剑2·改
+- [ ] 【橙光组】爱情公寓4 by 1329343592
+- [x] 【RM组】日漫痴迷宫 by oldbuddham
+- [ ] 【RM组】君所選擇的世界 by andypang100
+- [ ] 【橙光组】密室逃脱 by 岚棂
+- [ ] 【橙光组】再见艾玛
+- [ ] 【RM组】舌战群儒 by 轩辕大将军
+- [ ] 【橙光组】Memoryless by IrethRingeril
+- [ ] 【橙光组】哆啦a梦和朋友
+- [x] 【RM组】两个地球 by 红墨
+- [ ] 【RM组】彼岸花 by kava
+- [ ] 【橙光组】脱线社 by 玛丽猫
+- [x] 【RM组】True False by lingzi
+- [ ] 【RM组】王尼玛时空冒险 by 无名啊啊啊
+- [ ] 【橙光组】超人列传 by 小汉
+- [x] 【RM组】拓荒勇士 by 越前リョーマ
+- [x] 【RM组】执念之剑 by 包包19930
+- [ ] 【橙光组】校园事件簿 by qwaszx2334
+- [ ] 【RM组】子午线上的钟声 by my.0lantulantu0
+- [ ] 【RM组】仇恨之血 by 哇哈哈哇哈哈
+- [ ] 【橙光组】跳动回忆
+- [x] 【RM组】魔石传奇 by 混心
+- [ ] 【RM组】Marumaru by Maru7
+- [x] 【RM组】史莱姆斗勇者III by 一瞬间的幻觉
+- [ ] 【橙光组】秦明同人
+- [x] 【RM组】动漫像素次元 by 雷欧之王
+- [ ] 【橙光组】夜色墨蓝 by 轩辕叶
+- [x] 【RM组】孤岛暗杀 by 醉心如斯
+- [ ] 【橙光组】恋爱物语 by 夜沫痕
+- [ ] 【RM组】徒 by 高须小龙
+- [x] 【RM组】魔王传说 by 火烧兔子
+- [ ] 【橙光组】陌路危机 by MC浩
+- [x] 【RM组】Sin by zzzxxx2005
+- [ ] 【橙光组】100 words by 嚴子
+- [ ] 【橙光组】美工奋斗 by 联袂
+- [ ] 【橙光组】明月照君心 by 爱嵩嵩嵩嵩
+- [x] 【RM组】小岛历险 by gqhondafit
+- [x] 【橙光组】**Dreamland** by 萌の小夜-T (1)
+- [ ] 【RM组】捉迷藏 by 波帛簸柏
+- [x] 【RM组】影芒 by defisym
+- [x] 【橙光组】**八尾猫** by 北极七月熊 (2)
+- [ ] 【橙光组】存在 by asd123567dfg
+- [ ] 【橙光组】险恶 by 冥界彼岸花
+- [ ] 【橙光组】雪山杀人 by 木下凌枫
+- [ ] 【RM组】鹿鼎记 by 896766685
+- [ ] 【RM组】寻羞记 by guanqiqi777
+- [ ] 【RM组】少年Xu by 烟倦
+- [ ] 【橙光组】风色之眼 by 梦呓
+- [x] 【RM组】Buried Barry by changyuchung
+- [ ] 【橙光组】**零点学园** by 云无心 (3)
+- [ ] 【RM组】僵尸大爆发 by 16191940
+- [x] 【橙光组】**灵魂交响夜** by 诺亚之城 (2)
+- [x] 【RM组】神知同人 by Level1
+- [x] 【RM组】真相游戏 by 爱坑人的藤小爷
+- [x] 【RM组】罪后-Fianl by SpaceExia
+- [ ] 【RM组】属于，那片岛 by PCPC_02
+- [ ] 【橙光组】千羽之眼 by 青檬子
+- [ ] 【橙光组】黑白阶梯 by wingendless
+- [ ] 【橙光组】阴亡塔 by 77902470
+- [x] 【RM组】农村娃 by ccqtxwd
+- [ ] 【RM组】斑斑兔 by 帮帮
+- [ ] 【RM组】数码传说 by 沉默的卡卡
+- [x] 【RM组】妖精之泉 by 魔之哆啦
+- [ ] 【橙光组】反击之翼 by Anton1993
+- [x] 【RM组】勇者传说 by 恩匹希
+- [ ] 【橙光组】我是空管 by lys20000506
+- [ ] 【橙光组】创业物语 by 沉滞的剑
+- [ ] 【橙光组】髑首 by Goldenolive
+- [x] 【RM组】Mechanical by Altaria
+- [ ] 【橙光组】实妹相伴 by 1046496164
+- [ ] 【RM组】进击的全明星 by JuiceY
+- [x] 【RM组】圣光秩序 by 伯卿·游吟
+- [x] 【RM组】宁静的小镇 by 熊喵酱
+- [ ] 【橙光组】Given-White by qaz27751389
+- [x] 【RM组】铸造师 by gaofei677
+- [x] 【RM组】密室夏令营 by 约修亚_RK
+- [x] 【RM组】僵尸岛 by 852952407
+- [x] 【RM组】那日与回忆 by 亡瞳吾魔噯
+- [ ] 【RM组】落羽士兵阁 by 冰水金刚
+- [ ] 【橙光组】调戏客服
+- [ ] 【橙光组】Morpheus by 垂耳兔
+- [x] 【RM组】逆转裁判 by 子噜噜
+- [x] 【RM组】月之幻想 by 火烧兔子的马甲
+- [ ] 【橙光组】起司猫的穿越 by spoirt2848
+- [x] 【RM组】鬼隐 by 936717613
+- [x] 【RM组】无尽之旅III by 丿梁丶小柒
+- [x] 【RM组】**labyrinth** by 片翼贤者 (2)
+- [ ] 【RM组】骑士之歌 by 神秘影子
+- [ ] 【RM组】Nsuitesa's Gem by z1012572747
+- [x] 【RM组】高仿魔塔 by wolves
+- [ ] 【RM组】大乱斗第一季 by sam小子
+- [x] 【橙光组】**地球往事** by burst_TNT (3)
+- [x] 【RM组】火柴战争2 by yychchhh
+- [ ] 【RM组】TAROT-LOVERS by SK才是王道
+- [ ] 【橙光组】医 by 般若
+- [ ] 【橙光组】成章的推理日记 by madaa非madao
+- [ ] 【RM组】幻鸟之录 by yingyu25
+- [ ] 【橙光组】曾根崎心中 by 茄子.exe
+- [ ] 【RM组】兄弟我们在一起吧 by 魔赤
+- [ ] 【橙光组】圣月江湖 by sweet823487707
+- [x] 【RM组】**未鸣的风铃** by 水野·迪尔 (2)
+- [ ] 【RM组】白雪适格者 by aoziversalius
+- [ ] 【RM组】愤怒的小贩 by s554344680
+- [x] 【RM组】金坷垃战士传奇 by 黑色老猫
+- [ ] 【橙光组】沉睡都市 by 七维
+- [ ] 【橙光组】墨墨的茶餐厅 by solayu
+- [x] 【橙光组】**小航海时代** by 米癫癫 (3)
+- [ ] 【橙光组】现宅记 by 黑猫
+- [x] 【RM组】当大的就要顾小的 by 水木茶
+- [x] 【RM组】**沙罗双树** by 中野梓 (3)
+- [x] 【RM组】蔓延：背叛之屋 by 龙夫三拳tan
+- [ ] 【橙光组】中二少年 by 绝世☆妖镜
+- [x] 【RM组】破晓之歌 by swebok
+- [x] 【RM组】立哥传火之试练 by 雨夜清彤
+- [ ] 【橙光组】香丘何处 by 谢家幽梦
+- [x] 【RM组】封印塔的试炼 by LBQ
+- [ ] 【橙光组】东方穿越记 by vfr0577
+- [x] 【RM组】久奈 by 李光兆
+- [x] 【RM组】野比大雄生化危机 - 绝境求生 by 605533120
+- [x] 【RM组】撸帝之战 by 鑫の尘埃
+- [ ] 【RM组】孤独的幸存者 by lianran123456
+- [ ] 【RM组】空之小岛 by guaneva
+- [x] 【RM组】星之花 by ryoooo
+- [x] 【RM组】绯色之旅 by 美丽晨露
+- [ ] 【橙光组】默示录 by 喵喵小姐
+- [x] 【RM组】臭作平凡的一天 by 6rp
+- [x] 【RM组】无题 by 钢铁之心工作室
+- [ ] 【橙光组】孤岛96天 by 1426
+- [ ] 【橙光组】魔法气泡离别友谊
+- [x] 【RM组】原点传说 by Sion
+- [x] 【RM组】甜心小可爱 by slick
+- [ ] 【橙光组】梦回至爱 by jjoo00
+- [ ] 【RM组】光辉世纪 by woshiying8
+- [ ] 【RM组】凌的还债计划 by 凌童鞋
+- [ ] 【橙光组】盛世轻狂 by 1457716978
+- [ ] 【橙光组】calling you by 卜寂、新子
+- [x] 【RM组】白雪 by 纸鸢
+- [ ] 【橙光组】影物语 序 by 月下耶鲁夫
+- [x] 【RM组】口袋幻境 序章 by Anson
+- [ ] 【橙光组】木偶 by ufopea
+- [x] 【RM组】**REPIN** by b565185756 (3)
+
+### 短篇游戏大赛9 2014/6
+- [x] 【导演组】破空的雷光 by 时空之沙
+- [x] 【导演组】日落之后 by 湛蓝de海
+- [ ] 【导演组】D-丧尸包围 by W.Q.C.
+- [x] 【导演组】自杀者再利用 by Angeliclovewind
+- [x] 【导演组】真正的黑暗 by Password
+- [x] 【导演组】Brother by 月华风
+- [x] 【导演组】HypnoEdge-UNI by Altaria
+- [x] 【导演组】**光之船** Light Boat by enchant (3)
+- [x] 【导演组】**被命运抛弃的人** by 进击の虎叔
+- [x] 【导演组】东方霁月牌 by 千葉玖濑
+- [x] 【导演组】特鲁斯坦——两人的羁绊 by 黑环猫
+- [x] 【导演组】黑色之花 by 最后制帽匠
+- [x] 【导演组】苍蓝之空-无名反叛者 by 南宫无尘
+- [x] 【导演组】Gear of Sha-Kah-I II by satgo1546
+- [x] 【导演组】**蔷薇 - 完整版** by cinderelmini (2)
+- [x] 【导演组】夜惊觉 by 蓝泪红霜
+- [x] 【导演组】冒险断章/德拉格尼 by 黑化の鼠标
+- [x] 【导演组】The Way to the Stars by f44127
+- [x] 【导演组】**Type 0** by 我的米呀
+- [x] 【导演组】**Memo——寻找记忆的少女** by 喵呜喵5 (1)
+- [x] 【勇士组】**梦魇** by 美丽晨露 (2)
+- [x] 【勇士组】**Glimmer/Fatal Guise（彼岸之光/致命伪装）** by 中野梓 (1)
+- [x] 【勇士组】彗月行前传 by 熊的选民
+- [x] 【勇士组】**宠物王国-光辉之城** by 子弹君 (3)
+- [x] 【勇士组】大雄的高井山奇谈 by 牛肉面
+- [x] 【勇士组】魔法之物 by 未命名
+- [x] 【勇士组】NO SAVE by 朽木布可凋夜
+- [x] 【勇士组】圣诞快乐 by 藻罗
+- [x] 【勇士组】Fallout-AI&FEV by lianran123456
+- [x] 【勇士组】咪白：希望之种与少女的故事 by 龙夫三拳tan
+- [x] 【勇士组】甘泉幻想物语 by gkl0510
+- [ ] 【勇士组】暗魂 by 玄机子
+- [x] 【勇士组】野比大雄的死亡空间2 by nobina
+- [x] 【勇士组】这不是作死是什么 by slick
+- [ ] 【勇士组】新侠客英雄传 X 最终版 by zmz6668
+- [x] 【勇士组】黑色森林 by Moon_Roach
+- [x] 【勇士组】江湖梦 by 夜雨飞扬
+- [x] 【勇士组】黑化前兆 by 渺缈孤舟客
+- [x] 【勇士组】孤独者的世界Loner's World by fieu55
+- [ ] 【勇士组】迷宫旅者之不正常的日常 by 魔王桑
+- [ ] 【勇士组】仙剑奇侠传 by 星尘泪
+- [x] 【勇士组】**龙之灵魂** by FHNBHJ
+- [x] 【勇士组】A.O.M.S初中大冒险 by czh098tom
+- [x] 【勇士组】梦醒之旅——始悟 by 神秘影子
+- [x] 【勇士组】Selection by zender
+- [x] 【勇士组】安德海恩~战神的宿命·章节版 by gogocake
+- [ ] 【勇士组】地狱之铃 by Eric_Seinosuke
+- [x] 【勇士组】勇士是个ADC？！ by 某死灵法师
+- [x] 【勇士组】鲁巴帝国 by 【蛋塔】
+- [x] 【勇士组】你好吸血堡 by daosi
+- [x] 【勇士组】**逐梦** by H·H·Y
+- [x] 【勇士组】魔法与圣书：排列组合 by defisym
+- [x] 【勇士组】Robot Brother by 葡萄工作室
+- [x] 【勇士组】命运之旋律4-洛克之歌 by yestar
+- [x] 【勇士组】被引导的人们 by tangyechen
+- [x] 【勇士组】仙境之梦：影与叶的交织 by 天使喝可乐
+- [ ] 【勇士组】光星交辉 IV - 黑暗城堡 by 哇哈哈哇哈哈
+- [x] 【勇士组】Sin Chapter2 by zzzxxx2005
+- [x] 【勇士组】Where is there? by SherryX
+
+### 短篇游戏大赛10 2015/7
+- [x] 【战斗者组】星辰无界·前篇 by 尘生
+- [x] 【吟唱者组】**丁香** by Password
+- [x] 【战斗者组】**日历微纪1 勇者魔理沙的冒险** by KB.Driver
+- [x] 【吟唱者组】Vitalogue by 嚴子
+- [x] 【战斗者组】**口袋幻想** by 雪风
+- [x] 【吟唱者组】**D-传染病** by W.Q.C.
+- [x] 【战斗者组】**冒险日志** by 电子最终龙
+- [x] 【吟唱者组】**花篮谷杀手** by FHNBHJ (2)
+- [x] 【吟唱者组】**谎言之屋** by 百里_飞柳 (1)
+- [x] 【吟唱者组】**CAPRICCIO ～終わらない旅人の物語～** by 迅雷進
+- [x] 【战斗者组】帝国守望 · 前奏 by 疯狂的马赛克
+- [x] 【战斗者组】Naive Adventure by Ginga
+- [x] 【战斗者组】斩梦录 2 by 幻耶
+- [x] 【战斗者组】木锯惊魂 by 元卅
+- [x] 【战斗者组】奇迹之境 by 游戏我的爱
+- [x] 【战斗者组】NeuNzwei by Altaria
+- [x] 【吟唱者组】菲尼斯战记 by 风和音
+- [x] 【战斗者组】少年侦探成前之迷雾庄的宝藏 by ccqtxwd
+- [x] 【战斗者组】HappyTreeFriends·决战1941 by slick
+- [x] 【战斗者组】厌魅之语 by xiqimagic
+- [x] 【吟唱者组】诅咒Final by RootAndS
+- [x] 【吟唱者组】2月22日 by 漫天游弋
+- [x] 【战斗者组】**剑灵少女** by 美丽晨露 (1)
+- [ ] 【战斗者组】**魔女之夏：第一章** by 普罗旺斯的硬币 (2)
+- [x] 【吟唱者组】**光影 - 记忆缝隙中的女孩** by 爱尔睿欧丝
+- [x] 【吟唱者组】**衣锦还乡** by 脂肪大人 (3)
+- [x] 【吟唱者组】逃离痴汉岛 by q374435503
+- [x] 【战斗者组】**渺** by 绿野灰
+- [x] 【战斗者组】**辐射：爱在废土** by grayuncle
+- [x] 【战斗者组】小正历险记！ by 1219842912
+- [x] 【战斗者组】龙和许也的世界Ⅱ by 龙和许也
+- [x] 【战斗者组】**数码物语-遗失的光** by hijl1990
+- [x] 【吟唱者组】十字路口下着血 by 猪衰衰
+- [x] 【吟唱者组】双子密室 by 真_真空
+- [ ] 【吟唱者组】我来给你生个蛋 by 电车之熊
+- [x] 【战斗者组】工会筹划奇遇记 by 长弓巡洋集团
+- [x] 【战斗者组】勇者英侠传一前传 by 欧买歌
+- [ ] 【战斗者组】Long by 荧惑星人
+- [x] 【战斗者组】火凤燎原残兵小传 by warlockwlwl
+- [x] 【战斗者组】学霸公主 by 王翊尧
+- [x] 【战斗者组】江湖行 by acv255
+- [x] 【战斗者组】鱼与鱼缸 by 白兔先生
+- [x] 【吟唱者组】Hyacinthus by 朽木布可凋夜
+- [x] 【吟唱者组】十夜 by 无忧谷主幻
+- [x] 【战斗者组】**恶魔城~逢魔之时** by 阿薩男爵
+- [ ] 【战斗者组】**拯救大魔王2** by 夜$神 (2)
+- [x] 【战斗者组】魔塔谜闻记6：时空穿越与拯救 by 某死灵法师
+- [x] 【吟唱者组】**前夜祭** by auttbutt
+- [x] 【吟唱者组】小岛生存记 by guaneva
+- [x] 【吟唱者组】家-TheHome- by happinessizumi
+- [x] 【战斗者组】**反抗者** by lianran123456
+- [x] 【战斗者组】两个勇士与砂之国 by 吃了两口的苹
+
+### 极短篇游戏制作大赛1:细思极恐 2013/10
+- [x] **森林里的恶魔** by 水野·迪尔 (1)
+- [ ] 恐怖的尿尿 by grayuncle
+- [ ] ONE by 李光兆
+- [x] **我家有很多狗** by 余烬之中
+- [x] 敲门声 by 暗黑大魔王
+- [x] **尸体未命名** by 喵呜喵5 (2)
+- [x] **Das Schloss** by alpacanist
+- [x] 铊 by 怕鼠的猫
+- [x] **VI+I** by 心雪
+- [x] **噩梦** by 海绵 (3)
+- [ ] **希美的盒子** by 天然呆木子
+- [x] 解除诅咒吗 by hys111111
+- [x] 露西和恐怖游戏 by 怕鼠的猫
+
+### 极短篇游戏制作大赛2:超展开 2013/12
+- [x] **iSOKE** by 蒹露球
+- [x] 主角拯救世界 by 海绵
+- [x] **我的番茄①银元** by cinderelmini (1)
+- [x] 这勇者在闯魔城！ by andrew32123
+- [x] **裱世界！** by 朽木布可凋夜 (2)
+- [ ] 盲 by 幻想中的鸡蛋
+- [ ] NEVER GIVE UP by 丰聪耳神子
+- [ ] 被剑选中的勇者 by 丰聪耳神子
+- [x] 拉尔夫魔王战记 by 上贺茂润
+- [ ] 幻之轮回 by hcm
+- [ ] 君子之交淡如魂 by 山鲁佑德
+- [ ] **奇遇** by yiu889
+- [x] **The Hero** by 正义盟军指挥官
+- [ ] 图坦卡蒙之死 by Iphise
+- [ ] 半魔少年：第一话 by Iphise
+- [x] 进击的科学 by 耀眼的毛玉
+- [ ] 所爱之物 by Drip
+- [x] **万恶的考试** by Angeliclovewind (3)
+- [x] 蓝色记忆 Blue Memory X by 凝冰剑斩
+- [x] 我是学霸 I am curve wrecker. by 蓝儿
+- [x] **逆袭的笛卡尔** by 阿薩男爵
+- [ ] 梦幻之旅 by xclr5756
+- [ ] 这是个悲伤的故事 by 红黑龙
+- [x] 我肚子饿了 by 多头雾水
+- [x] 拉尔夫与金三胖 by 怕鼠的猫
+- [ ] 渣作向：剑侠轮回传 by @冷剑少侠
+- [ ] 圣诞节快乐 by Melody123
+- [ ] 雪入村奇遇记v1.1 by 伊言尹信
+
+### 极短篇游戏制作大赛3:欺瞒 2014/2
+- [ ] 晨曦之城 by 李光兆
+- [x] 勇者对不起 by yychchhh
+- [x] 得到 by 丽塔菌
+- [ ] 谁知道这是啥 by lxcc4055
+- [x] 乱世前奏 by 神秘影子
+- [x] **血腥解谜【Crime:Berley】** by Anson
+- [ ] 南流景 by 弹簧拉力机
+- [ ] **西海计划·明雨 REEDIT** by 池风凉
+- [x] 沉默的小镇-Silence Town by yangjunyin2002
+- [x] Grey by 星空·mylove
+- [ ] **命运交叉的客店** by alpacanist (1)
+- [ ] 第七号天堂 Heaven 7 by 火铭制作组（上传Byhanying1703）
+- [ ] **我与“他”** by nr1y6up6 (3)
+- [x] **人不为己-欺瞒** by 遥遥遥 (2)
+- [ ] 侦探与老人家的那些事 by Melody123
+- [ ] **茧** by lianran123456
+- [x] 瞒 by 蓝儿
+- [x] 白雪公主和格格巫 by 怕鼠的猫
+
+### 极短篇游戏制作大赛4:旅 2014/4
+- [x] 不归途 by 朽木布可凋夜
+- [ ] 异世之旅 by 利斗
+- [ ] Dead man walking by lianran123456
+- [ ] Boundless of journey by 银元宝
+- [ ] “旅”洞宾智取七仙 by YeYe.
+- [x] Baka LBQ by LBQ
+- [ ] 拳皇XAS by 菊花侠小赵
+- [x] **进击的旅人** by 彩虹傲雪
+- [x] 旅人1969 by 丰聪耳神子
+- [x] **行旅医生和猫** by cinderelmini (2)
+- [ ] **时光胶囊** by nr1y6up6
+- [x] **第七号列车** by 水野·迪尔 (1)
+- [x] 沉船与猫 by 6rp
+- [x] **长椅** by 喵呜喵5 (3)
+
+### 极短篇游戏制作大赛5:在我死后 2014/10
+- [ ] **请不要离开这里** by 夜羽圣灵
+- [ ] 当我死后 by HHY
+- [ ] 在我死后 by Arose
+- [ ] 生余九时 by 李光兆
+- [x] **五月六日的狐鸣** by cinderelmini (2)
+- [x] **安魂曲** by 湛蓝de海 (1)
+- [x] **醉人之生、死之梦幻** by zaiy2863
+- [x] **非正常死亡游戏** by 海绵 (3)
+- [ ] 去救杰克 by sirenke
+
+### 极短篇游戏制作大赛6:迷宫 2014/12
+- [ ] 梦旅 by 永恒の未知数
+- [ ] 暗杀潘采臣 by 月华风
+- [ ] 订购你的冒险世界！ by shy
+- [x] **断章：试炼火山** by 长弓巡洋集团 (3)
+- [x] LOST by spadekun
+- [x] **人生的迷宫** by H·H·Y (2)
+- [x] **恋之迷宫** by zaiy2863
+- [x] **迷宫旅人** by 喵呜喵5 (1)
+- [x] 子京 by cinderelmini
+
+### 极短篇游戏制作大赛7:永生 2015/3
+- [ ] 抉择：过去的信念 by 长弓巡洋集团
+- [ ] Project1 by H·H·Y
+- [x] **咖啡馆** by 阿薩男爵
+- [ ] 追逐者 by r403736524
+- [ ] 永生的活魔人 by sirenke
+- [x] **The Thyos - 塞西莉亚的奥义魔法** by cinderelmini (1)
+- [x] **The fairytale of sunset[你是我最美的童话]** by 凝冰剑斩 (2)
+- [x] 历史观察者 by 风雨之神
+- [x] 炼金术士的弥留之际 by lrq20000421
+- [ ] Everlasting by zeldafd
+- [x] **永生童话** by 美丽晨露
+- [ ] Immortal by 百科砖家
+- [ ] 必死的永生者-程崇篇 by yyc970428
+- [x] 永生的贤者 by 怕鼠的猫
+- [x] **血色房间** by 海绵 (3)
+- [ ] 缘梦·胡剑平篇 by 永恒の未知数
+- [x] Snake by 湛蓝de海
+- [ ] 永生 by ag10034325
+- [ ] 选择 by xiaorang
+
+### 极短篇游戏制作大赛8:幻 2015/11
+- [x] 下一站 by 泡泡游戏乐园
+- [x] 幻之匣 by 真_真空
+- [x] 梦的边缘 by sirenke
+- [x] 逃亡与幻影 by 长弓巡洋集团
+- [x] 肯定还有奇怪的地方 by 百里_飞柳
+- [x] The fairytale of sunset/穿透幻影的夕阳 by 凝冰剑斩
+- [x] 远方 by H·H·Y
+- [x] 再见了，雾之湖 by KB.Driver
+- [x] 诅咒幻境 by 阿薩男爵
+- [x] 胡二的某一天 by feizhaodan
+- [x] 鸮の挽歌 by 狛尨鸮の传说
+- [ ] 遥远的约定 by 普罗旺斯的硬币
+- [x] 耶纳兹的寓言 by 鑫の尘埃
+- [x] Reflection by 天然呆木子
+- [x] 我看到了她所看到的 by 猪衰衰
+- [x] 心之梦 by 悠月
+- [x] 寻梦 by 无忧谷主幻
+- [x] 神作3 by 凝冰剑斩
+- [ ] 造梦书 by FHNBHJ
+
+### 一图的挑战 2015/6
+- [ ] 公会论篇 by 长弓巡洋集团
+- [ ] **回** by lrq20000421 (1)
+- [x] **HLWE | 伏象千峰凸** by alpacanist (3)
+- [ ] 墓地 by ag10034325
+- [x] 捲軸之謎 by 火焰卷轴
+- [x] 公主与地瓜 by 怕鼠的猫
+- [x] **月色下的红茶杯** by 凝冰剑斩 (2)
+- [x] **天使愛米希** by 妖精蕾贝卡 (3)
+- [x] 只有一张图6R版 by 鑫の尘埃
+- [x] 我是谁 by KB.Driver
+- [x] 柯柯丽的魔法课堂 by 歌莉·萌露
+- [x] 纹章前传 过往之昔 by 无忧谷主幻
+- [ ] XIII by 斜眼君
+
+### 一分钟游戏制作大赛1 2015/7
+
+### 一分钟游戏制作大赛2 2015/12
+- [x] 恐怖解谜系列1 by RPGMakerMV
+- [x] 一分钟游戏 by yang1zhi
+- [x] 三分钟游戏（巡洋集团） by 长弓巡洋集团
+- [ ] 逃出生天 by 冷峻逸
+- [ ] **重生之我在VA** by 落雪鸦杀 (2)
+- [x] **某不科学的解谜游戏** by 迷糊的安安 (3)
+- [x] **塞莉西亚的感冒** by cinderelmini (1)
+- [x] 魔王大人与勇者阿尔西斯 by 无忧谷主幻
+- [ ] 噩梦 by 狛尨鴞の传说
+- [x] 百合射击 by 上贺茂润
+
+### 一分钟游戏制作大赛3:文明 2015/12
+- [ ] 六大文明 by 怕鼠的猫
+- [ ] 文明建设人人有责 by 落雪鸦杀
+- [x] **复兴之舟** by 木天蓼 (1)
+- [x] 文明是什么？ by 冷峻逸
+- [x] 文明小卫士 by 猪衰衰
+- [x] **东方追物记** by 美丽晨露 (2)
+- [x] **角落的文明** by 真_真空 (3)
+
+### 一分钟游戏制作大赛4:爱 2016/11
+- [x] 玩偶之家 by zaiy2863
+- [x] **杀了我吧** by 真_真空
+- [x] **Rescue Line** by 百里_飞柳
+- [ ] **年少颂** by FHNBHJ (3)
+- [ ] ing ong by 钓鱼的岛
+- [x] **秋凛夜** by 秋之忧郁 (2)
+- [ ] 不得不爱 by 冷峻逸
+- [x] 神作6 by 凝冰剑斩
+- [ ] 爱恋 by 无忧谷主幻
+- [x] 触手可及 by 闲君
+- [x] **心爱** by 孭织 (1)
+
+### 剧情大挑战1 2016/2
+- [x] **永夜蛰居 ~ Mooned Insect ~** by ·雾逝者· (1)
+- [x] **Feels Happiness** by cinderelmini (2)
+- [x] **濛漠白唐** by H·H·Y (3)
+- [x] The Verse of Midnight「夜归」 by 凝冰剑斩
+- [x] 拉菲安与魔眼 by 月下耶鲁夫
+- [x] 冒险故事又一则 by ⑨姐姐
+- [x] 怀表 by lrq20000421
+- [x] 箱庭 by 永恒の未知数
+- [x] 灵魂，愿望，交易 by 秤星络伞
+- [x] 咒 by 鑫の尘埃
+- [x] 米拉的心愿 by zaiy2863
+- [x] 一夜无同 by cxpagy
+- [x] 无名往事 by ccqtxwd
+- [x] 华之物语 by 无忧谷主幻
+- [ ] 闹鬼城游记 by 长弓巡洋集团
+- [x] Lily Wake Up by Alex_Hzx
+- [x] 生命之泉 by 怕鼠的猫
+- [ ] 杀人游戏 by 爱尔睿欧丝
+- [ ] 扭曲 by yang1zhi
+- [x] 禁闭 by Vortur
+- [x] 猫绅士一夜借宿物语 by MOONLIT
+
+### 剧情大挑战2 2017/2
+- [x] **燧石** by Chros (1)
+- [x] **梦境暗示** by H·H·Y (2)
+- [x] **骗子与傻瓜** by 超人与猫 (3)
+- [ ] 庄周的陷阱 by 月下耶鲁夫
+- [x] 托库先生的保镖 by 猪衰衰
+- [x] ri by 罗盘C
+- [x] 梦羊 by 孭织
+- [x] 得偿所愿 by 雪霁寒霄
+- [x] 赫斯珀瑞斯的规则 by cinderelmini
+- [x] 静海的洄游鱼 by zaiy2863
+- [ ] 多视角杀人事件 by 真_真空
+- [x] 我们玩家 by ⑨姐姐
+- [x] 路 by 鸟猫
+- [x] 面朝大海 by king
+- [x] 芙蕾雅与她的羊 by 小女王酱
+- [x] 暴力萝莉的厨神之路 by 775933591
+- [ ] 救赎之轮 by 黑or白
+- [x] 阿尔格里兰的梦境 by OldtreeLethe
+- [x] 余烬之中·春篇 by 凝冰剑斩
+- [x] 猎龙 by 看花飞花落
+- [x] 云箫吟-恩怨 by 月华风
+- [ ] 油桐树下 by 阿娅_mirromelts
+- [ ] 神之恶戏 by 嘎呜
+- [x] 赛尔卡工会日记“城邦的秘石” by 长弓巡洋集团
+- [x] 素材们在盯着你哦！ by 没是的人
+- [x] Isyitis不沉塔 by 闲君
+- [x] 伊尔王国的宝藏 by RPG空白
+- [x] 二人行 by 不灭的火炎
+- [x] 我要成为魔法使 by 鑫の尘埃
+- [ ] 万万想不到 by woshiying8
+- [x] 帝国不万岁 by 斜眼君
+- [ ] 赌圣大逃亡 by 踢腿水上飘
+- [x] 卡罗琳，或金鱼、古堡与牛肉面 by 回转寿司
+- [x] 没有牛肉面的天堂 by 吞灵
+- [x] 谁在说故事 by W.Q.C.
+- [ ] 如何做一个游戏【大雾 by 沧海之莲
+- [ ] 奎恩的梦 by hezhiwei
+- [x] 保卫羊羊村 by wangzh
+- [x] 女神的剧本 by 无忧谷主幻
+
+### 剧情大挑战3 2018/10
+- [x] **骰号勇者** by W.Q.C.
+- [x] **余光** by 鸟居子
+- [x] **水汽** by 小女王酱
+- [x] **薛西弗斯战记** by i_khaos
+- [x] **雨天** by 泠鸰
+- [x] **千羽花开** by 世界第一中二
+- [x] **勇者的锅** by 猪衰衰
+- [x] **信念之地/炼金与记录** by 百里_飞柳
+- [ ] 法外之地 by 770688159
+- [x] 困兽 by myigloo
+- [ ] 你微笑的一百种样子 by myigloo
+- [x] 项链 by 芦花母鸡
+- [x] 游戏制作真难呀 by _ATE_
+- [x] 黑胶虫 by kkxccx
+- [x] 机械之音 by 火锅深处
+- [ ] 红与蓝色的冒险 by 闪光火狐狸
+- [x] 是热兵器就下一百层 by 58203751
+- [x] Eve by 芍溧 & Dyples
+
+### 剧情大挑战4 2020/1
+- [x] **一只宝箱怪值多少钱** by 火锅深处
+- [x] 透小明历险记 by 唐门草楹
+- [ ] **迪露露克小危机** by 玛娜
+- [x] 旧世界的老笑话 by 怀德米尔桑
+- [x] **Dup** by ⑨姐姐
+- [x] 我不是救世主 by 流浪杰哥
+- [x] 纯爱画师 by Zeldashu
+- [x] 公主游戏 by misuro
+- [x] 1666 by 芦花母鸡
+- [x] 谁杀死了宝箱怪？ by 玥悦
+- [x] 黑与红 by 一般通过TIM
+- [ ] 红茶妃 by 怨念_无言
+- [x] 史莱姆婚礼 by 哇哇哇啊叭叭
+- [x] **听说全息VR民用化了** by 迷你及其人
+- [ ] 贵族府邸谋杀案 by 圈9圈9圈
+- [x] **斯坦哲国的王子** by funxlww
+- [x] 无题 by ICEK
+- [ ] **Twinn** by 越青
+- [ ] **通向花盛开的彼岸** by NightDaze
+- [x] 我亲爱的史莱姆 by Pigeon.无
+- [x] 史莱姆的游戏 by 艾雷幻想
+- [x] 布丁 by kao_jun
+- [x] 命之绊 by qwershu007
+- [x] 永忆之誓 by MDKWhistler
+- [x] 八位一体 by mhhg5100
+
+### 剧情大挑战5 2021/2
+- [x] **月圆之堡** by 小啊 (2)
+- [x] **魔鬼交易** by alpacanist (3)
+- [x] 4月5日尸体发现 by 喵呜喵5
+- [ ] 焕英之恋 by 怕鼠的猫
+- [ ] 自动人偶会梦见什么吗? by artisan00
+- [ ] **蓝蔷薇的意志** by 越青 (1)
+- [x] 魔法师的余晖 by ztymllx
+- [ ] 一夜之城 by 火锅深处
+
+### 极短篇游戏制作大赛9:反 2016/4
+- [x] 反转·勇者魔王传 by 狛尨鸮の传说
+- [x] 镜面织梦 by 长弓巡洋集团
+- [ ] 口袋人类 by 栗乌贼南瓜怪
+- [x] 正面反面 by 芜之_nowhere
+- [ ] 寻找柔一 by gaofei677
+- [ ] 逆转正邪 by 邪正人鬼
+- [x] 反社会症候群 by lrq20000421
+- [x] 物极必反 by 怕鼠的猫
+- [x] 武大郎告状 by 怕鼠的猫
+- [x] **The Overdue Brave 迟到勇者** by 百里_飞柳 (3)
+- [x] **归档计划：镜映之域** by RaidenInfinity
+- [x] 宇宙塌缩 by 无忧谷主幻
+- [x] **梦雨迷城** by 普罗旺斯的硬币 (2)
+- [x] **泰加：通往终焉的旅行** by 墓雷
+- [x] **斜阳下的彼岸** by 凝冰剑斩 (1)
+- [ ] Final Class by 赤瞳猫
+- [x] 神作4 by 凝冰剑斩
+
+### 极短篇游戏制作大赛10:完美 2016/7
+- [x] **完美犯罪** by 百里_飞柳 (2)
+- [ ] 完美挑战 by 暗夜荆棘—佩恩
+- [x] 论大魔王是如何拐跑勇士的 by garfeng
+- [x] **“完美”的世界** by Arfies (3)
+- [x] **离高考还有49天** by 看花飞花落
+- [x] **自我暗示** by congwsbn (1)
+- [x] 舞法七仙女 by 怕鼠的猫
+- [x] 在下明明有何贵干 by 鑫の尘埃
+- [x] 异能病1.0 by 悠月
+- [ ] 学霸张的考试 by 1892389717
+- [ ] Lost in perfection by 余音·魔眼
+- [ ] 完美之恋 by 沧海之莲
+- [ ] 怪物 亦或是神的少女 by 无忧谷主幻
+
+### 极短篇游戏制作大赛11:狂气 2016/10
+- [x] 暗天使序章 by RPG空白
+- [x] **带我下地狱** by Arfies (2)
+- [x] **爱与涅槃** by H·H·Y
+- [x] 人畜 by 青舞
+- [ ] 恶戏 by 枕少不暖~
+- [x] 深空 by Mullice_
+- [x] **实验观察记录** by 百里_飞柳 (3)
+- [x] 教室里只剩下我一个人 by 真_真空
+- [x] 希望赞歌 by 悠月
+- [x] **无色之黑** by 孭织 (1)
+- [x] 寒叶下的薄冰 by 凝冰剑斩
+- [ ] 以爱志铭 by 闪光的青蛙菌
+- [x] 狂人日记 by 无忧谷主幻
+- [x] 神作5 by 凝冰剑斩
+
+### 极短篇游戏制作大赛12:极小型 2017/4
+- [x] **极小型战争** by RPG空白 (2)
+- [x] 抑郁/Depression by 百里_飞柳
+- [ ] 格列佛游记卷一 ·利立普特游记 by 1892389717
+- [x] 噬人白昼 by onionrabbit (1)
+- [x] 极小型的破坏者 by fux2
+- [x] **渺小、又空虛的努力** by i_khaos (2)
+- [x] **极小型星球** by Arfies
+- [x] 雪 by Hitomino
+- [x] **瓶中精灵** by MiYu (2)
+- [x] 微小的烦恼 by 孭织 (2)
+- [x] 不下雪的雪原 by 青舞
+- [x] !!!常微分 by guoxiaomi
+- [x] 微态 by 口宅
+- [x] 我和我的你 by zhyfzl
+- [x] **极小的RMer** by W.Q.C.
+- [x] DreamFantasy/奇妙物语 by kivat1
+
+### 极短篇游戏制作大赛13:新生 2017/10
+- [x] 冥王迷宫 by gforce
+- [x] 贝小姐之梦 by daceice
+- [x] 人类灭绝 by jujuba02
+- [x] **减负** by 雅弥弥弥 (2)
+- [x] 空山 by 1892389717
+- [x] 不死者-Anima- by mr24970985
+- [ ] **箱子新世界** by 未命名 (2)
+- [x] **Nobody Knows** by wildprophecy (1)
+- [x] **响** by Arfies (2)
+- [ ] 修女的祈愿 by Kim_Shyuen
+- [x] 病房 by Peekaboo
+- [ ] 真鲁蛇转生 by i_khaos
+- [x] 我将死去 by 真_真空
+- [x] **墓园姐妹** by Ciyuunhe (2)
+- [x] 冰封的宁静之海 by 疯猫嗷
+- [x] 新生计划 by 百里_飞柳
+- [x] 神作7 by 凝冰剑斩
+
+### 极短篇游戏制作大赛14:减 2018/2
+- [ ] 归零 by 类人猿
+- [x] **在生命耗尽之前** by W.Q.C. (2)
+- [x] 无光的森林 by 雅弥弥弥
+- [x] **幻色楼阁** by XRP (2)
+- [x] -100% by lrq20000421
+- [x] 梦中梦 by 朽木布可凋夜
+- [x] **地牢探险家** by Arfies (1)
+- [ ] D14-Reduce by 柳之一
+- [x] **旅燕归航** by Ciyuunhe (2)
+- [x] 魔劍第０章：LotS Chap00 by i_khaos
+- [x] 69侦探事务所 by 青舞
+- [x] 幽灵日记 by Glius
+- [x] Black Page by lucy94920
+- [x] Less Less Sincereness负负得真 by zmj945
+- [x] 恨意 by 人形半岛体
+- [x] 打砖块 by Iteration
+- [x] 神作8 by 凝冰剑斩
+
+### 极短篇游戏制作大赛15:壳 2018/7
+- [x] 怪卵孵化师 by W.Q.C.
+- [ ] 太空计划 by 小吵闹的革命
+- [ ] 脱壳日 by 双叶荆棘
+- [ ] 蛋 by Xing~~
+- [x] **壳域** by ⑨姐姐 (2)
+- [x] **西塔海姆游乐园** by Arfies (2)
+- [x] **蜗牛壳 | Snail Shell** by Mayaru (1)
+- [x] 人格外売/MindSHELL by Glius
+- [x] 壳内少女：Girl in the SHell by i_khaos
+- [ ] 百里空候 by 类人猿
+- [ ] SuperShell by ekmomo
+- [x] 金蝉脱壳 by v2sam
+- [x] 选择 by Kenshin001
+- [ ] 囮的房间 by 晚饭
+- [ ] 第十五届极短篇游戏制作比赛 by alt236679
+- [ ] **人偶的温暖小屋** by 卒鸽鸽
+- [x] 跃向墙外 by 西卡小飞
+- [ ] **扭蛋机世界** by 木南&梦境位面主
+- [x] **壳中** by 暮觉
+- [x] 生存 by a200731118
+- [x] **永冻之壳** by 雅弥弥弥 (2)
+- [x] **蟹司铎与蛋骑士** by 240459365 (2)
+- [ ] 幻色阁楼 by XRP.
+- [x] Ｇａｍｅ^２ by Arfies
+
+### 极短篇游戏制作大赛16:恶 2019/4
+- [x] 龙虎斗 by BCJT
+- [ ] 洁白之花 by lrq20000421
+- [x] 思维冲击实验：996 by 百里_飞柳
+- [ ] 超高密度聚乙烯 by 2073746068
+- [x] 地狱人间 by 朽木布可凋夜
+- [x] 魔女的日记 by 白色的羊羊
+- [x] **英雄传说又一则** by ⑨姐姐 (1)
+- [ ] 恶念 by RPG空白
+- [ ] 告解 by myigloo
+- [ ] **Room** by 羞涩の小红豆
+- [x] **不得了的有轨电车难题！** by breaakerq
+- [x] 小话西游之秦梦村历险记 by leshui
+- [x] 亚心传说 by 434312405
+- [x] **暴风呼啸的维兰镇** by 真·可乐 (2)
+- [ ] 孟德 by ekmomo
+- [x] 神界狂想曲~圣灵游戏~ by GameMaker
+- [x] **恶徒狂欢** by 喵呜喵5
+- [x] 精神疾患 by 605533120
+- [ ] **附身** by 阵颜
+- [x] 食人小男孩 part 01 by i_khaos
+- [x] 夔 by 玲玖之堂
+- [x] **穷神迷宫** by Arfies
+- [x] 白昼梦 by natsukodopa
+- [x] 生存战棋奥德赛 by 汉堡王阿吉
+- [x] **恶 行** by 芙蕾娅
+- [x] **异化之恶** by 梦境位面主0v0 (2)
+- [x] **迷宫游商与勇者之死** by 火锅深处
+
+### 极短篇游戏制作大赛17:边界 2019/7
+- [x] 癌症框架 by Zeldashu
+- [x] **神狼** by 火锅深处
+- [x] Sincere by 身正
+- [ ] 星期六 by Jambako
+- [x] 鱼的梦境 by Kirosa
+- [ ] 界限 by 火心
+- [ ] Project1 by kklt
+- [x] **灾难边界** by W.Q.C. (2)
+- [ ] **时光** by 羞涩の小红豆 (2)
+- [x] 巫师小屋 by famtheethics
+- [ ] 创星传说——Tales Of Atman by XC星魂
+- [x] **半梦夜行 ~A Journey on Limbus~** by breaakerq (2)
+- [x] MAMA MONSTER by MisterZoo0219
+- [ ] **杀戮预定** by 梦境位面主0v0 (1)
+- [x] **反社会症候群γ** by lrq20000421
+- [x] 域中之匣 by Arfies
+
+### 极短篇游戏制作大赛18:衰亡 2020/5
+- [x] 报废的世界 by 唐门草楹
+- [x] 道歉信 by 梦猫
+- [x] **极乐** by 微芥 (2)
+- [x] 神龙勇士 by 星空下的我们
+- [x] 花 by 泠鸰
+- [ ] 少女の终末 by 一只中二酱
+- [x] 抹消 by mhhg5100
+- [x] 银白的漂流 by 布伦希尔德
+- [x] 乐之殇 by 开关关
+- [x] 永不凋零的四季花 by 亦彩
+- [x] 零落世界 by XanaduDream
+- [x] **衰亡战争** by W.Q.C. (2)
+- [x] 捕梦网 by GKLKK
+- [ ] 饥饿告示 by 星砂兔
+- [x] 早安，玛德琳 by kuroya
+- [ ] 范德尔特 by gyk122
+- [x] **亡国信使** by 火锅深处 (2)
+- [x] **老师** by breaakerq (1)
+- [ ] **Pulut Adventure RPG** by yayapipifly (2)
+- [x] **五五午时书** by 案板上的咸鱼 (2)
+- [x] Sweet Thoughts by Kirely
+- [ ] 遗忘的小岛 by 橘Yuusya
+- [ ] 列夫卡 by natsukodopa
+- [x] 环形山 by 启蒙蚕茧
+- [ ] 拯救大魔王2：逆流 Chapter1 by 夜$神
+- [x] 死亡之地 EA by huajinyu123
+- [x] 神作⑨ by 琪斯美
+- [x] 衰亡箱庭的公主殿下 by 喵呜喵5
+- [x] 猫 by 武侯丶
+
+### 极短篇游戏制作大赛19:回音 2020/10
+- [x] **长廊** by 狐狸精竹琪
+- [x] Poésie by 薛定谔公馆的喵
+- [x] 心理治疗记录 by 百里_飞柳
+- [ ] **只有声音的游戏 - NoVision** by phunmung5173
+- [x] 苹果的回声 by 启蒙蚕茧
+- [x] **漫游** 永夜之墟 by Arfies
+- [ ] 万籁俱寂 by 家用電鋸
+- [ ] 心牢余音 by ufopea
+- [x] **聆听者** by candlesor
+- [ ] Helltaker2 by Maxwell_甜咖啡
+- [x] 神作X by 涅炎
+- [x] R.E.P.L.Y by 泠鸰
+- [x] 塔之回音 by 橘子汽水Asi
+
+### 极短篇游戏制作大赛20:目标不存在 2021/7
+- [x] **未完成程序** by W.Q.C. (2)
+- [x] **莉莉** by yuyering.
+- [x] **404 STORY** by ZH0310 (2)
+- [x] 好！就决定去告白吧！ by Rabbit_NoTail
+- [x] 这和剧情里说的不一样 by Aprow
+- [x] **Andrew** by 秋云山 (2)
+- [ ] 出口在哪里？ by 神风炽羽
+- [x] 六道孤生 by 仇九
+- [x] 台风夜怪谈 by 人形半岛体
+- [x] as usual by GKLKK
+- [ ] 失航 by 0142
+- [ ] 彼世物语 by 雷觉
+- [x] 失乐园 by Undermine
+- [x] **迷失 The Dark** by Dreamard
+- [x] The Race by ABXY-Kenobi
+- [x] 谁玩谁呐 by 平凡人
+- [ ] 她 by 羞涩の小红豆
+- [x] **所向之未来** by loffid (1)
+- [x] **壹房间解谜** by _ATE_
+- [x] 合作愉快 by PLeaseS
+- [ ] 勇者竟是我自己 by 白衣剑仙是缥缈
+- [x] 神作X1 by 涅炎
+
+### 极短篇游戏制作大赛21:空与满 2022/1
+- [x] 拟态生还 by w15044@163.com
+- [x] 秩序之衡 by gxlihui666
+- [x] 水 by lvyun7
+- [x] 长夜漫漫 by 小吵闹的革命
+- [x] 终临的花海 by 黛惠
+- [x] 快把水倒满！ by v2sam
+- [x] GOD MAY BLESS YOU by 一般通过TIM
+- [x] 大萌风云 by 送牛奶的哥哥
+- [x] 地狱折返（3D） by knifish
+- [x] 镜中界 by Dreamard
+- [x] 扫雷 by orcinus_orca
+- [x] 归途 by 钇圣道
+- [x] 只会水魔法的村子 by Yu_Zhen
+- [x] Flowing Heart by yuyering
+- [ ] 往昔方舟：风雨之旅 by FriendsMind
+- [x] **盲村** by Inerno (2)
+- [x] 纳奉之镜：暗之章 by 古月霊
+- [x] 封神榜外传 by BCJT
+- [x] 瓶中花 by 无尾
+- [x] **电子幻术** by 一粒像素_ (2)
+- [x] **创世学徒** by W.Q.C. (2)
+- [x] 搬家女仆 by 月之鸟
+- [x] 壶中之天 by 无忧谷主幻
+- [x] **买个可乐饼吧！** by 越青 (1)
+- [ ] eklipso by 疑病从无
+- [x] 神作Xニ by 湖中神劍
+- [ ] 逃离宠物的魔法师 by 火锅深处
+- [x] kettling by alpacanist
+- [ ] FULL by 涅炎
+
+### 极短篇游戏制作大赛22:前情提要 2022/7
+- [x] 复制品的胡思乱想 by CopyCindy
+- [x] 凶手就在我们中间！ by Hamstachio
+- [x] 旧梦新忆 by 芝士鸡排
+- [x] 美梦图书馆 by 百里_飞柳
+- [x] ‘我’的日记 by 雪霁寒霄
+- [x] 消失的情人 by Dreamard
+- [ ] 杂毛丫头 by 九十九弁弁
+- [x] 琪亚娜，你干什么？ by CopyCindy
+- [ ] project1 by 神风炽羽
+- [x] **Verbannung 放逐者** by 秋云山 (2)
+- [x] Remind ME by WeedYang
+- [x] **蒸汽、齿轮与水晶——前往泑沐汀** by 纯属小虫 (2)
+- [x] 案件048 by moxom
+- [x] 02号-深渊 by nightillusion
+- [x] 萤石 by lokyi
+- [x] 言寺 by 元辰
+- [x] DowntheRabbitHole（试玩版） by 启蒙蚕茧
+- [x] Isle 小岛 by 澡堂薯片
+- [x] **她的讣告** by 人形半岛体 (2)
+- [x] **仙音烛** by zeniusi193 (2)
+- [x] 伊甸陷落 by kyuriya
+- [x] 重生柯南 by Guroue
+- [x] **风与鸟** by yuyering
+- [ ] 我的姐姐 by 短颈鹿头人
+- [x] **无事发生** by 西恩派拉 (1)
+- [x] 碎片之海 by 鼠曲草
+- [x] OUR STORY by ZH0310
+- [x] 失忆魔法师的逃出 by 溶解莉莉絲
+- [x] 旧天使 by JesseDominate
+- [x] RingedPain by T小喵
+- [x] 匿谷山夜谈 by 杭小白
+- [x] 真人秀 by www826001
+- [x] 不灭之梦 by candlesor
+- [x] 异常记录·镜 by 南下雪貂
+- [x] GPA*i by Drop
+- [x] 《日常》剪辑师 by W.Q.C.
+- [x] 雪拉日记 by 无忧谷主幻
+- [ ] 敖列傳1.0 by a200731118
+- [ ] 兰弗拉斯的树海 by Niliphy
+- [ ] 十二年前的一封信 by 小杰L
+- [x] Another gameの午夜惊魂 by RPG筱咲工作室L
+
+### 极短篇游戏制作大赛23:化为碎片 2023/4
+- [x] 噩梦破碎 by 百里_飞柳
+- [ ] 陨石击破 by v2sam
+- [x] **蜂则能成** by 火狐狸先生 (2)
+- [x] 标题画面故事其一 by 我是大仙
+- [x] 胡扯故事·三个我 by 剑崎一真Blade
+- [x] 勇者与祭品～史莱姆要用喝的～ by Hamstachio
+- [x] **蒸汽、齿轮与水晶——破碎的晶梦** by 纯属小虫 (2)
+- [x] Give up a world in 7Days by Daiwok Team
+- [x] 旅之灵夫 by 无忧谷主幻
+- [x] 伯克利家的女仆 by muharukahana
+- [ ] 气到爆炸 by 怕鼠的猫
+- [x] 记忆碎片 by IceCTeam
+- [ ] 归一与碎化 by willture
+- [x] 泡沫 by enderweater
+- [x] 风铃草 by 九十九弁弁
+- [x] 神之巴别塔 by l001213
+- [x] **纸心** by 仇九 (2)
+- [x] 胶水与填料 by www826001
+- [x] **11:55** by 无头_nohead
+- [x] 分离点 by 杭小白
+- [x] **寻光者** by candlesor (1)
+- [x] 锚点 by 莫言别离
+- [x] 心中岛 by 澡堂薯片
+- [ ] 大天使转生 by 柳叔的project1
+
+### 极短篇游戏制作大赛24:二重命题 2023/9
+- [x] 曹仁饼店 by 哇哇哇啊叭叭
+- [x] 好感度什么的，一定是出BUG了吧！ by 黛惠
+- [x] 陌路相拥 by LSPK
+- [x] **UN1L3αSH** by 剑崎一真Blade
+- [ ] Visualization Paradox Dress by 时间幻镜
+- [x] **万圣节万圣节万圣节** by 硝酸三版
+- [x] 哆啦A梦漫长的一天 by 无忧谷主幻
+- [ ] 深空孤影 by Junke
+- [x] 勇者斗恶龙？ by yasisama
+- [x] **大事不好占卜屋** by 火狐狸先生
+- [x] **蒸汽、齿轮与水晶——叛逆晶灵** by 纯属小虫
+- [x] 神之言 by W.Q.C.
+- [x] 价值0.667亿的人工智能程序 by 逸豫
+- [x] 谐恶力量 by alpacanist
+- [ ] Good Friend by Undermine
+- [ ] 逻辑坏死 by Undermine
+- [x] 少女情怀总是思 by 无头_nohead
+- [x] 逃课！因此开始旅行 by Arfies
+- [x] **镜分** by l001213
+- [ ] 可以给菇只红气球吗 by snufkin
+- [x] WAI by CopyCindy
+
+### 极短篇游戏制作大赛25:不可阻挡 2024/4
+- [x] 逃出游戏镇 by 魔法丶小肉包
+- [x] 谁也挡不住 by plain666
+- [x] **白露之旅** by 黛惠 (2)
+- [ ] Bake In Time by 15217320790
+- [x] Universal Turing Machine part 6 by Xeon
+- [ ] 不可阻挡的卡卡罗特 by v2sam
+- [x] **杀之不尽死而复生无止无终不可阻挡** by asukalin (2)
+- [x] 哥斯拉侵入的城市 by pantherLEE
+- [ ] Deupgraded by 剑崎一真Blade
+- [x] 不可阻挡的荣光之道 by 哇哇哇啊叭叭
+- [x] Unstoppable by 哇哇哇啊叭叭
+- [x] Xuaner's Story by BTF060
+- [x] 瞳 by Hamstachio
+- [ ] 活着 by a200731118
+- [ ] 正义无阻 by 夜阑鬼舞
+- [x] 泡沫旅记：冥界与复活的传闻 by yuyering
+- [x] 希望 by vfvf
+- [x] 怪弑异谈 by lamenter
+- [x] **逃离「灾难」** by W.Q.C.
+- [x] **杜曼的群星陨落时** by 火狐狸先生
+- [x] 我想睡懒觉 I Want to Sleep In by 唐吉童话
+- [x] **异元-地劫黎明** by kangxi0109 (2)
+- [x] 彗星群岛 by 无头_nohead
+- [x] **幽轨通往何方** by candlesor (1)
+- [x] 迎春晞 by 瞳止
+- [x] 女神的剧本 by 无忧谷主幻
+- [ ] 中华小工匠 by smpc5900
+- [x] 神作13 by 凝冰剑斩
+- [x] XP And MV by 一若以若
+- [x] 神作14 by 涅炎
+- [x] 银河超新星·不可阻挡传奇 by 时间幻镜
+
+### 极短篇游戏制作大赛26:禁止 2025/2
+- [x] 相思 by 无头_nohead
+- [x] 封禁之塔 by 15217320790
+- [x] **魔女的爱犬** by 黛惠
+- [x] 雪原求救电话 by pantherLEE
+- [x] 孩子与她那被剥夺了白色的世界 by asukalin
+- [x] **牧冬晚报** by Zoutiloid (1)
+- [x] 异元-禁忌之轮 by kangxi0109
+- [x] 勇者与史莱姆迷宫 by v2sam
+- [x] 围困之匣 by 治晗于
+- [x] **我们不想要圣诞老人的礼物！！！** by akidou (2)
+- [x] 阻止 by plain666
+- [x] 回家 by 罗羽珩
+- [ ] 珂琳希德本征意识 by breaakerq
+- [ ] 她 by 卷卷的卷卷
+- [x] 不可越之门 by pantherLEE
+- [ ] **Nobody Hear ·无人聆听** by Undermine (2)
+- [x] 轻松快乐☆无梦安眠夜zZ by Rabbit_NoTail
+- [x] 问那么多干嘛 by 人形半岛体
+- [x] **啊，主脑大人。** by 火狐狸先生 (2)
+- [x] **鼠导：寻找幸福** by Arfies
+- [x] 嘘言 by 无头_nohead
+- [x] 行为 by a200731118
+- [x] 青之物语 by 无忧谷主幻
+- [x] 一日勇者 by 百里_飞柳
+- [x] 无声颤动：悠远的归途 by 67481142
+- [x] 禁止不开灯 by 怕鼠的猫
+- [x] 全黄了：注定打工的我们 by 哇哇哇啊叭叭
+- [x] 神作X5 by 涅炎
+
+### 极短篇游戏制作大赛27:推延 2025/7
+- [x] 这里可是我家呀 by 无头_nohead
+- [x] **只会凹核爆的勇者不能没有伙伴** by ccss1234 (2)
+- [x] 下雨前要吃饭哦！ by 黛惠
+- [x] 迷你侠客 by 15217320790
+- [x] 下次再行动 by plain666
+- [ ] 封魔 by dch1153
+- [x] 侦探序列 by 洛羽缀
+- [x] 时间旅行的窗口 by pantherLEE
+- [x] 返青 by 白小荟
+- [x] **回响** by Zoutiloid
+- [x] 推延栗子 by 无忧谷主幻
+- [x] 消逝时刻 by Julylam
+- [x] 活熟成 by abopa
+- [x] 再活一天 Another Day by ekmomo
+- [x] 等等再救世界 by hailing
+- [x] **都市悲歌** by 越前リョーマ (2)
+- [x] **骨血分形** by akidou (2)
+- [ ] 按下按钮 by IceCTeam
+- [x] **等待复仇日** by 凝冰剑斩 (1)
+- [x] 大施为大事 by 哇哇哇啊叭叭
+- [x] 拖堂 by Song_送
+- [x] 但是啊。 by 无头_nohead
+- [ ] 不要温和地走入那个良夜 by 韭菜棺材rook
+- [x] **魔女的摇篮** by Undermine (2)
+- [x] 秘所 by 05678123
+- [x] 晚安，无穷远点 by 火狐狸先生
+- [x] 醒来 by furco
+- [x] **眼镜上的水擦不干净。** by Huoao_buao
+- [x] 我家长女鬼啦！ by 0142
+- [x] 神作16 by 凝冰剑斩
+- [x] 神作X7 by 涅炎
+
+### RPG Maker创作大赛1 2025/1
+- [x] 【UNITE】失忆王子与说谎公主 by pantherLEE
+- [x] 【UNITE】最后的猫咪 by yayapipifly
+- [ ] 【UNITE】**阿波罗奏鸣曲** by 青柠羊角包
+- [x] 【UNITE】**超越展开.zip** by 玩星际拓荒的BW
+- [x] 【MV/MZ】彼岸[Plot twist] by ntrworld
+- [x] 【MV/MZ】魔旅物语 by 子昂dada
+- [ ] 【MV/MZ】幻世传说前传.冰封世纪 by 初星工作室
+- [x] 【MV/MZ】悠悠牧场 by 滑稽JK桑
+- [x] 【MV/MZ】美食大冒险 by LAN_IA
+- [x] 【MV/MZ】店员过敏 by Cedar
+- [x] 【MV/MZ】爱琳丝特 by sugihara
+- [x] 【MV/MZ】Escape home by ZeroSparta
+- [x] 【MV/MZ】雨夜·罪案现场 by pantherLEE
+- [x] 【MV/MZ】Wandering in wonder 泡影漫行 by 小猫爱吃鱼
+- [x] 【MV/MZ】梦境回忆 by 菌子好吃
+- [ ] 【MV/MZ】My Wet Leto Comic : Fan Anthem of Deduction by Fusen Studio
+- [x] 【MV/MZ】死灵勇者 by 沉月的幻梦境
+- [x] 【MV/MZ】**归家与囚笼** by Z_MAuthor
+- [x] 【MV/MZ】**乌托邦的钥匙** by 祈A/Sea
+- [x] 【MV/MZ】海岱风物记 by 秦王绕柱工作室
+- [x] 【MV/MZ】瓶子外面 by 林夕未晞
+- [ ] 【MV/MZ】失忆勇者与神秘教主 by 流言
+- [ ] 【MV/MZ】深夜独自出行 by 米奥瓜
+- [ ] 【MV/MZ】星星落下的夜晚 by Hamstachio
+- [x] 【MV/MZ】背德侦探 by 846414057
+- [ ] 【MV/MZ】意外走红 by 超级鼠
+- [x] 【MV/MZ】少女侦探白猫 by 16air
+- [x] 【MV/MZ】末日前一天 by 714784864
+- [x] 【MV/MZ】香忆调饮室 by llxxx
+- [x] 【MV/MZ】Rat by 俞羽君
+- [x] 【MV/MZ】种猫得猫 by hailing
+- [x] 【MV/MZ】深入梦境 by 易世浮生
+- [x] 【MV/MZ】1481研究所 by Victorformat
+- [x] 【MV/MZ】**人蚁之间 ~Of Ants and Men~** by hagfish
+- [x] 【MV/MZ】Valda by applewong
+- [x] 【MV/MZ】王国覆灭的那三天 by swsd
+- [x] 【MV/MZ】**剪花** by mirusona
+- [x] 【MV/MZ】愚者 by 珊瑚冰
+- [x] 【MV/MZ】进化人也会做梦吗 by 冬天又来了
+- [x] 【MV/MZ】迷宫冒险 by MinkieDash
+- [x] 【MV/MZ】话疗巨星 by ws6tbz
+- [x] 【MV/MZ】超展开！纯情男大穿越异世界？ by 辉明
+- [x] 【MV/MZ】**倘若你想见到明天** by 苹果核工作室
+- [x] 【MV/MZ】瓷境迷踪 by 鱼阿宁
+- [ ] 【MV/MZ】深渊守密人：森林之子 by 舒逸
+- [x] 【MV/MZ】下班 by 喜剧猫猫队
+- [x] 【MV/MZ】超展开：警报响起3分钟后会发生什么？ by wangzhe
+- [x] 【MV/MZ】**时轨悖行 ~ Track To Nowhere** by candlesor
+- [x] 【MV/MZ】ONEDAY于是决定结束这一天 by SpringSnowRebirth
+- [ ] 【MV/MZ】暗隐大冒险 by dogyfox
+- [x] 【MV/MZ】实验世 by 是大妈
+- [x] 【MV/MZ】SELF ASK 自问寻旅 by 秋云山
+- [x] 【MV/MZ】逝纸之痕 by 阳悦
+- [x] 【MV/MZ】阿果与牧灵人之过招摇山 by furco
+- [x] 【MV/MZ】厨子小心愿 by bobofish
+- [x] 【MV/MZ】**伊莎贝拉，带我走** by 诶我做游戏，真的假的！
+- [ ] 【MV/MZ】日记本 by Chiirenpowa
+- [ ] 【MV/MZ】约定 by Youo
+- [x] 【MV/MZ】圣枪爆裂少女 by 音墨森工作室
+- [ ] 【MV/MZ】异界无赖外传·超脱 by Pixel龙之介
+- [x] 【MV/MZ】考试不及格怎么办 by 黑猫back
+- [x] 【MV/MZ】寻踪者Clues Finder by EZgame
+- [x] 【MV/MZ】再构镜像 by 终焉梦
+- [x] 【MV/MZ】TT园区模拟器 by 1027913421
+- [x] 【场外】剑之勇气 by yonghui123
+- [x] 【场外】博物魅影 by 洞庭鲨鱼
+- [x] 【场外】我推的猫meme by 大元帅98
+- [x] 【场外】雪原求救电话 by pantherLEE
+- [x] 【场外】花火与幽灵少女 by shinamao
+- [ ] 【场外】失落的舰队：1658参赛出战 by archerahenius
+- [ ] 【场外】爱氏物语（Artis Impact） by Mas_Artis
+- [x] 【场外】美丽旧世界·纸牌塔 by 墓火
+- [ ] 【场外】梦境潜行 by chinafuqh
+- [ ] 【场外】遗失的神话 by mozthetiger
+- [ ] 【场外】青锋行 by pandeng421
