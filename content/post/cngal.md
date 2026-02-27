@@ -1,7 +1,7 @@
 ---
 title: CNGAL
 date: '2026-02-12'
-lastmod: '2026-02-13'
+lastmod: '2026-02-27'
 categories:
   - Collection
 tags:
@@ -535,7 +535,7 @@ tags:
             <td>洋红工房</td>
             <td>2022/12/19</td>
             <td>2022/12/19</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -4423,7 +4423,7 @@ tags:
             <td>T34工作室</td>
             <td>2014/7/2</td>
             <td>2016/9/20</td>
-            <td>0</td>
+            <td>1</td>
             <td>FLASH</td>
         </tr>
         <tr>
