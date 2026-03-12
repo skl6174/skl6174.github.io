@@ -1,13 +1,14 @@
 ---
 title: 吃瓜
 date: '2026-01-05'
-lastmod: '2026-02-28'
+lastmod: '2026-03-12'
 toc: true
 
 categories:
   - Daily
 tags:
   - Onlooker
+pinned: true
 ---
 
 <font color=#808080 size=2>标准：相对人数少影响力小的圈子并且该圈子没有经常爆瓜的刻板印象~~（说的就是管人圈）~~</font>
@@ -36,7 +37,7 @@ tags:
 
 截止1月12日：Project1论坛帖子已被删，微博上冲突还在发酵。
 
-1月23日至今(2/19)双方无后续微博。
+截至3月12日还在闹。
 
 ## Innocent Grey画师杉菜水姫被网暴删除推特
 

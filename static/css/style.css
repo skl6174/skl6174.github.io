@@ -152,6 +152,11 @@ figure.figure figcaption {
   --mask-text: #fff;
 }
 
+/* pinned post */
+.pin {
+  font-size: 0.8em;
+}
+
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
   body {

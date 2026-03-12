@@ -1,7 +1,7 @@
 ---
 title: CNGAL
 date: '2026-02-12'
-lastmod: '2026-02-27'
+lastmod: '2026-03-12'
 categories:
   - Collection
 tags:
@@ -11,6 +11,8 @@ tags:
 ---
 
 2022年我在知乎上刷到莫言国G的[2020WePlay文化展文字AVG之魂展区历史墙全文一览](https://zhuanlan.zhihu.com/p/296711994)，起了把名单上所有游戏收集了玩一遍的念头，结果在这个名单上不断扩充，一直收集到现在。下面表格中资源一列代表我是否已有该游戏的资源(free表示在Steam上免费但我还没保存)，不管是在互联网上找到还是在Steam等平台购买。<span class="mask">近年来大部分国G已上架了Steam，本人不鼓励盗版，请自行购买。</span>表格主要收集十年以前的国产游戏，14年以前的国G理论上绝大部分能在表格中找到，不过这里申明一点：**表格中的游戏并不都是galgame，其中有乙游，甚至可能有blgame**，因为莫言国G那篇文章提供的游戏名单本就“群贤毕至”，所以接下来收集游戏的过程中节奏就一步步地被带歪了。下面的游戏有AVG也有RPG，还有STG、PUZ等等类别的游戏，有喜闻乐见的“擦边球”游戏，也有饱受争议的政治题材游戏，有被平台下架又在另一个平台上架的游戏，也有发布之后默默无闻很可能已经失传的游戏。截至现在，这些游戏的收集过程已持续近4年，其中发生了很多波折，国G业界也发生了很多事情，鉴于表格中游戏类别之混乱，如果你找到了表格中的某款游戏，在打开它前请做好心理准备。
+
+更新于2026/3/12，X代表将和其他条目合并。
 
 - - -
 
@@ -255,7 +257,7 @@ tags:
             <td>蓝天使制作组</td>
             <td>2015/6/6</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td>序章</td>
         </tr>
         <tr>
@@ -303,7 +305,7 @@ tags:
             <td>Hollowings</td>
             <td>2017/3/6</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td>demo</td>
         </tr>
         <tr>
@@ -407,7 +409,7 @@ tags:
             <td>猫玉米</td>
             <td>2011/8/27</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -495,7 +497,7 @@ tags:
             <td>5R工作室</td>
             <td>2011/1/10</td>
             <td>0</td>
-            <td>0</td>
+            <td>X</td>
             <td></td>
         </tr>
         <tr>
@@ -903,7 +905,7 @@ tags:
             <td>七彩绘色游戏 &amp; YEARS制作组</td>
             <td>2022/9/30</td>
             <td>2022/9/30</td>
-            <td>0</td>
+            <td>1</td>
             <td>东方同人</td>
         </tr>
         <tr>
@@ -919,7 +921,7 @@ tags:
             <td>YEARS制作组</td>
             <td>2024/11/8</td>
             <td>2024/11/8</td>
-            <td>0</td>
+            <td>1</td>
             <td>东方同人</td>
         </tr>
         <tr>
@@ -1320,7 +1322,7 @@ tags:
             <td>2017/1/26</td>
             <td>0</td>
             <td>0</td>
-            <td>漫画改</td>
+            <td>漫画改 PS4版</td>
         </tr>
         <tr>
             <td>Whisper</td>
@@ -1736,7 +1738,7 @@ tags:
             <td>2016/10/16</td>
             <td>0</td>
             <td>0</td>
-            <td></td>
+            <td>LOVELIFE同人</td>
         </tr>
         <tr>
             <td>LOVELIFE命运的牵引</td>
@@ -1744,7 +1746,7 @@ tags:
             <td>2016/12/20</td>
             <td>0</td>
             <td>1</td>
-            <td></td>
+            <td>LOVELIFE同人</td>
         </tr>
         <tr>
             <td>LOVELIFE誓约的巧克力</td>
@@ -1752,7 +1754,7 @@ tags:
             <td>2017/2/10</td>
             <td>0</td>
             <td>0</td>
-            <td></td>
+            <td>LOVELIFE同人</td>
         </tr>
         <tr>
             <td>寄甡</td>
@@ -2255,7 +2257,7 @@ tags:
             <td>星愿制作组</td>
             <td>2020/5/21</td>
             <td>2020/5/21</td>
-            <td>0</td>
+            <td>1</td>
             <td>PUZ 东方同人</td>
         </tr>
         <tr>
@@ -2430,6 +2432,14 @@ tags:
             <td>To New～towards your dream</td>
             <td>ss-square</td>
             <td>2007/5/1</td>
+            <td>0</td>
+            <td>0</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>RP社团的COS日记</td>
+            <td>ss-square</td>
+            <td>2008/10/17</td>
             <td>0</td>
             <td>0</td>
             <td></td>
@@ -2703,16 +2713,8 @@ tags:
             <td>火狗工房</td>
             <td>2000/8/15</td>
             <td>0</td>
-            <td>0</td>
+            <td>X</td>
             <td>SIM</td>
-        </tr>
-        <tr>
-            <td>爱神餐馆外传：时流之轮</td>
-            <td>火狗工房</td>
-            <td>2000/12/25</td>
-            <td>0</td>
-            <td>0</td>
-            <td>RPG</td>
         </tr>
         <tr>
             <td>爱神餐馆2</td>
@@ -2735,7 +2737,7 @@ tags:
             <td>火狗工房</td>
             <td>2005/12/24</td>
             <td>0</td>
-            <td>0</td>
+            <td>X</td>
             <td>RPG</td>
         </tr>
         <tr>
@@ -3063,7 +3065,7 @@ tags:
             <td>弦语蝶梦</td>
             <td>2018/10/15</td>
             <td>2018/10/15</td>
-            <td>0</td>
+            <td>1</td>
             <td>STG 东方同人</td>
         </tr>
         <tr>
@@ -3447,7 +3449,7 @@ tags:
             <td>Cyclobalan Games &amp; 绘恋制作组</td>
             <td>2021/1/29</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td>2021/1/25安卓版</td>
         </tr>
         <tr>
@@ -4407,7 +4409,7 @@ tags:
             <td>Rockx3</td>
             <td>2010/2/13</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -4415,7 +4417,7 @@ tags:
             <td>T34工作室</td>
             <td>2010/3/19</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td>FLASH</td>
         </tr>
         <tr>
@@ -4431,7 +4433,7 @@ tags:
             <td>T34工作室</td>
             <td>2015/6/25</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td>FLASH</td>
         </tr>
         <tr>
@@ -4439,7 +4441,7 @@ tags:
             <td>T34工作室</td>
             <td>2016/7/29</td>
             <td>2016/9/24</td>
-            <td>0</td>
+            <td>1</td>
             <td>FLASH</td>
         </tr>
         <tr>
@@ -4601,7 +4603,7 @@ tags:
             <td>0</td>
             <td>1</td>
             <td>《薄暮传说》同人</td>
-        </tr>        
+        </tr>
         <tr>
             <td>鲤氏奇人异闻录</td>
             <td>顽童计划</td>
@@ -4911,7 +4913,7 @@ tags:
             <td>witoo社游戏制作组</td>
             <td>2017/8/8</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -4997,10 +4999,10 @@ tags:
         <tr>
             <td>祈风</td>
             <td>观象草图</td>
+            <td>2014/2/15</td>
             <td>2019/2/14</td>
-            <td>2019/2/14</td>
-            <td>0</td>
-            <td>东方同人</td>
+            <td>1</td>
+            <td>2011/11/20EP1 东方同人</td>
         </tr>
         <tr>
             <td>Across Troy</td>
@@ -5559,7 +5561,7 @@ tags:
             <td>akirevo_凄</td>
             <td>2012</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -6767,7 +6769,7 @@ tags:
             <td>天圣</td>
             <td>2011/3</td>
             <td>0</td>
-            <td>0</td>
+            <td>1</td>
             <td>RPG</td>
         </tr>
         <tr>
@@ -7551,38 +7553,6 @@ tags:
             <td>Tessie</td>
             <td>2005</td>
             <td>0</td>
-            <td>1</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>地城前酒馆的杀人事件</td>
-            <td>阿斗nagito</td>
-            <td>2023/4/24</td>
-            <td>0</td>
-            <td>1</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>我亲爱的妹妹</td>
-            <td>梅涅_Menelaus.A</td>
-            <td>2025/5/22</td>
-            <td>2025/5/22</td>
-            <td>1</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>暮雨流花</td>
-            <td>赵刘恩子</td>
-            <td>2024/4/9</td>
-            <td>2024/4/9</td>
-            <td>1</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>暮雨流花+</td>
-            <td>赵刘恩子</td>
-            <td>2025/7/25</td>
-            <td>2025/7/25</td>
             <td>1</td>
             <td></td>
         </tr>
