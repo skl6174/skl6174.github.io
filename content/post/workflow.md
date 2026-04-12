@@ -1,7 +1,7 @@
 ---
 title: conda + VS Code + R Workflow
 date: '2026-01-18'
-lastmod: '2026-01-19'
+lastmod: '2026-04-12'
 categories:
   - Study
 tags:
@@ -12,6 +12,8 @@ tags:
 无聊写了个conda + VS Code + R的Workflow，要求有miniconda，vscode，R，Rtools，且都已添加系统/用户环境变量。
 
 以batch文件所在目录为工作路径，启动所在文件夹同名的conda环境，启动vscode识别到conda环境中的R语言并添加Rtools路径。
+
+把代码中的code换成trae，可以同样启动Trae（前提Trae也要添加入环境变量）。
 
 ```bat
 cd /d %~dp0
@@ -26,5 +28,6 @@ if errorlevel 1 (
 )
 set RTOOLS_PATH=%RTOOLS_ROOT%\usr\bin;%RTOOLS_ROOT%\mingw64\bin
 set PATH=%RTOOLS_PATH%;%PATH%
+set R_LIBS_SITE=%CONDA_PREFIX%\Lib\R\library
 code . -n
 ```

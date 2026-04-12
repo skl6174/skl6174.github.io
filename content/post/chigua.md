@@ -1,25 +1,21 @@
 ---
 title: 吃瓜
 date: '2026-01-05'
-lastmod: '2026-03-12'
-toc: true
+lastmod: '2026-03-26'
 
 categories:
   - Daily
 tags:
   - Onlooker
-pinned: true
 ---
 
 <font color=#808080 size=2>标准：相对人数少影响力小的圈子并且该圈子没有经常爆瓜的刻板印象~~（说的就是管人圈）~~</font>
 
 - - -
 
-单开一页，讨论小圈子里的瓜。（长期更新）
+~~单开一页，讨论小圈子里的瓜。（长期更新）~~
 
-<figure class="figure">
-  <img src="/images/FukL8e7OHpkht7EshW8cklprtjgP.jpg" alt="xueliuchenghe">
-</figure>
+我寻思，Minecraft算不算小圈子，国G算不算小圈子，车万算不算小圈子，想想还是不继续往下更了。
 
 - - -
 
