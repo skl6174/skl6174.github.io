@@ -1,7 +1,7 @@
 ---
 title: 日常（20260125~ ）
 date: '2026-01-25'
-lastmod: '2026-04-12'
+lastmod: '2026-06-29'
 categories:
   - Daily
 tags:
@@ -570,3 +570,110 @@ sbti，4-9下午/晚上莫名其妙火起来的一个东西，原始网站是可
 补：4-8下午b站宣布于4-10上线播放页暂停广告功能。现在google商店版不更新了，一些动态打不开了，pilipala吃了律师函，找了半天找了个piliplus凑合用着。同样的还有红迪，不过那是很久以前的事了，最近找到一个redreader貌似还能正常用。
 
 又想起前段时间还有一件事，唉，mygo。
+
+## 2026-4-13
+
+久闻BBSMC汉化的大名，今天试了下这个[ATM10S的汉化](https://bbsmc.net/language/all-the-mods-10-sky-cn/version/7854204-zh_CN-8a7b0756)，果然浪费了我一个下午的时间。
+
+## 2026-4-14
+
+起床刷了下手机，三明医改推广到我老家了，还有许老板的事开庭了。
+
+## 2026-4-16
+
+补：
+[运-10”总体设计负责人程不时逝世](https://stage1st.com/2b/thread-2279087-0-1.html)
+正好最近在看的[小说](https://m.youshu.me/book/162505)提到运10，唉。
+
+## 2026-4-26
+
+真是服了[流浪图床](https://p.sda1.dev/)了，图片加载怎么这么慢啊。
+
+昨天轮到出公差，大概是这个月第一个早八。
+
+4-20 [蒂姆库克将卸任苹果CEO](https://stage1st.com/2b/thread-2279413-0-1.html)。
+
+4-18 [机械动力航空学](https://modrinth.com/mod/create-aeronautics)出了，但是由于mcmod百科被打了，导致过了两天我才发现。
+
+## 2026-4-28~29
+
+4-25 大概是针对川普的第三次暗杀了
+
+4-28 [广岛发生爆炸](https://stage1st.com/2b/thread-2279914-0-1.html)
+
+## 2026-4-30
+
+[一加和真我合并，徐起负责营销，李杰负责产品](https://stage1st.com/2b/thread-2280012-0-1.html)
+
+> 我大氢还能亡两次吗？
+
+## 2026-5-5
+
+这个五一假期起点的瓜真多。
+
+## 2026-5-14
+
+现在既然都有两个爸爸，两个武大了，那么为什么不能有两个Rubio呢？
+
+## 2026-5-25
+
+买罗技鼠标（半年前买的）
+用OPPO手机（一加当然算OPPO）
+玩洛克王国（看室友玩）
+我看看我还能叠上什么buff。
+
+## 2026-5-26
+
+昨天爬行天下又开团了
+
+[微软财报揭示 AI 的真实成本困境：使用这项技术的开销，竟高于雇佣人力](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+
+## 2026-5-29
+
+aliens.gov
+
+## 2026-6-3
+
+上个星期寝室两个人都得了甲流，现在他们痊愈了，我依旧没事。
+
+[what fuck is this](https://steamcommunity.com/sharedfiles/filedetails/?id=3736597795)
+
+## 2026-6-12
+
+> 上个星期寝室两个人都得了甲流，现在他们痊愈了，我依旧没事。
+
+该来的总会来的
+
+## 2026-6-13
+
+[用Arch的有福了](https://archlinux.org/news/active-aur-malicious-packages-incident/)
+
+## 2026-6-16
+
+<figure class="figure">
+  <img src="/images/Screenshot_2026-06-15-20-58-19-02_9d26c6446fd7bb8e41d99b6262b17def.jpg" alt="fuckqq"  style="max-width:350px">
+</figure>
+
+我就说现在谁还闲得无聊翻我的黑历史。
+
+有人知道最近世界杯发生了什么吗？
+
+## 2026-6-19
+
+<figure class="figure">
+  <img src="/images/fuckfuckfuckfuckfuckfuckfuckobsidisn.jpg" alt="fuckobsidisn"  style="max-width:200px">
+</figure>
+
+## 2026-6-22~28
+
+在顺德度过了令人崩溃的一个星期
+
+## 2026-2-29
+
+换了一个新耳机
+
+28214部有妖气上的漫画（部分可能绝版）：
+
+magnet:?xt=urn:btih:BA515CD0FEC3C99BDA4E12514C3E8FB545008C2B
+
+（PS：建议用pikpak，不建议用115）

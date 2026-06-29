@@ -1,7 +1,7 @@
 ---
 title: Markdown Test
 date: '2025-12-31'
-lastmod: '2026-01-19'
+lastmod: '2026-06-29'
 toc: true
 categories:
   - Test
@@ -86,3 +86,34 @@ Transition Probabilities :
 <span class="mask">
   试试看行不行
 </span>
+
+$$
+\begin{aligned}\huge{不仅可以变大，还可以居中} \end{aligned}
+\\
+\begin{aligned}\Huge{\bbox[#fc5,12px]{我还可以调背景颜色居中变大}} \end{aligned}
+\\
+\begin{aligned}\bbox[#cf5,7px]{满屏乱飞} \end{aligned}
+\\
+\begin{aligned}\small{\color{deepskyblue}{变小，调色}} \end{aligned}
+\\
+\begin{aligned}\Large{\mathbf{\cancel{加粗划掉一回}}} \end{aligned}
+\\
+\Large{\mathbf{\cancel{\cancel{加粗划掉两回}}}}
+\\
+\begin{aligned}\Large{\mathbf{\cancel{\cancel{\cancel{加粗划掉三回}}}}} \end{aligned}
+\\
+\boxed{\begin{aligned} &\large{\color{orange}{爱和恨}}\huge{\color{green}{天各一方}},\\ &\small{我们}\Large{\color{red}{遍体鳞伤}},\\ &\Huge{\color{purple}{梦}}却\huge{\color{deepskyblue}{安然无恙}}\\ &\bbox[#EAF,20px]
+\\{\cancel{\cancel{\cancel{\cancel{\cancel{\cancel{\cancel{\cancel{\cancel{\cancel{\Huge{\color{yellow}{不思量,自难忘}}}}}}}}}}}}}\\ \end{aligned} }\\
+$$
+
+嗯，好吧
+
+```
+ParseError: KaTeX parse error: Expected '}', got '#' at position 81: …ed}\Huge{\bbox[#̲fc5,12px]{我还可以调…
+```
+
+实际渲染效果：
+
+<figure class="figure">
+  <img src="/images/屏幕截图 2026-06-29 211545.png" alt="rendered">
+</figure>
