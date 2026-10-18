@@ -1,7 +1,7 @@
 ---
 title: 日常（20260125~ ）
 date: '2026-01-25'
-lastmod: '2026-06-29'
+lastmod: '2026-10-18'
 categories:
   - Daily
 tags:
@@ -711,3 +711,114 @@ sb chrome浏览器把v2的拓展禁用了，但是——至少我这里——v2�
 从明天开始，学校的工作人员基本上走的差不多了，但我还在学校干活。。。
 
 最近把rime输入法删了，不会真有人用rime打全拼吧？不会吧不会吧不会吧？
+
+## 2026-7-23
+
+今天居然能在B站上刷到[这个up](https://space.bilibili.com/24991988)，才发现那件事已经一年了。
+
+## 2026-7-24
+
+[和对方聊天，判断对方是ai还是真人](https://www.anyanygame.com/turing-test)
+
+甲方把我当许愿池，我把AI当许愿池，我们都有美好的未来。
+
+一加已死。
+
+## 2026-7-25
+
+今天广州这b天气真是服了，看着马上要下雨了，结果硬憋了一两个小时还没下，难道非等到我的快递到了才下吗？？？
+
+## 2026-7-26
+
+海鲜市场上买的ThinkPad到了，好消息：序列号查得到，坏消息：序列号对应的收货地址在美国。
+
+美剧《极地恶灵》
+
+## 2026-7-27~29
+
+黑苹果
+
+## 2026-7-30
+
+修了双系统时间不同步的bug
+
+## 2026-7-31
+
+给mac装了office，装了之后homebrew出了一点问题，遂询问Gemini，然后就是ai大战zsh了，ai胜，仅靠一行代码就把homebrew扬了。。。
+
+GHub的官方替代：[Onboard Memory Manager](https://download01.logi.com/web/ftp/pub/techsupport/gaming/OnboardMemoryManager_2.6.1749.exe)，如果黑苹果中移动鼠标出现电流声，通过此软件修改Polling Rate可解。
+
+## 2026-8-2
+
+> 重要通知:近期接到举报，诈骗网址toho-vote.info重出江湖，如果误入请不要慌张，在人物投票界面给 琪露诺 在第一个位置投一票即可安全退出，请各位增强网络安全意识，避免上当受骗
+
+## 2026-8-4
+
+回家
+
+> 赛博竹知了 网页版：https://zhuzhiliao.imsai.cc/
+
+意外发现很久以前侧载的app不能启动了，只能说国行手机装Google真是同时吃两坨屎
+
+## 2026-8-5
+
+补：如果今年Windows10更新一直出现“你的设备中缺少重要的安全和质量修复”，加入ESU即可。（田厂这帮阿三真是想钱想疯了）
+
+> Windows 10 完全支持：Secure Boot = OFF。微软没有要求必须开启。所以：Windows Update、Microsoft Store、Defender、BitLocker（大多数情况）都可以正常使用。
+
+现在我的黑苹果：无线网卡不兼容，打了补丁后勉强能连WiFi，但是蓝牙及其相关功能（比如airdrop）一概不能用。雷电接口本来就坏了。触摸屏不能用。
+
+~~今日~~昨日新闻：
+
+> 什么叫sayo教吧吧主进精神病院了
+
+## 2026-8-7
+
+> 35g乌龙茶叶+1500ml热水，兑入50ml柠檬糖浆，再加20g赤藓糖醇
+
+> https://lin66.site/posts/secure-your-vps.html
+
+台风“白海豚”上岸是不是会变成百合豚（doge）
+
+今日立秋。
+
+## 2026-8-9
+
+台风。
+
+发现一个逆天的bug，windows11系统整个桌面变黑，排查了半天才发现自己不小心移动了壁纸文件所在位置，然后桌面壁纸自动fallback到纯黑色背景。。。
+
+> 115 网盘 API 开放平台宣布暂停服务
+
+哈哈
+
+## 2026-8-10
+
+今天整理文件时发现魔伊漫画还没完结（至14卷）
+
+## 2026-8-11
+
+灾厄mod似了？
+
+## 2026-9-23
+
+MSYS2的一个bug：
+
+"/ucrt64/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem"和"/ucrt64/etc/ssl/certs/ca-bundle.crt"[不同步](https://github.com/msys2/MINGW-packages/issues/25088)，临时的解决方法：
+
+```bash
+rm /ucrt64/etc/ssl/certs/ca-bundle.crt
+ln -s \
+  /ucrt64/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem \
+  /ucrt64/etc/ssl/certs/ca-bundle.crt
+```
+
+如果安装了某杀毒软件，需要将该软件根证书导入MSYS2，然后可以验证：
+```bash
+update-ca-trust
+curl -I https://repo.msys2.org/msys/x86_64/msys.db
+```
+
+## 2026-10-18
+
+mark一下，想起来就把刚刚两个月的事情补了。

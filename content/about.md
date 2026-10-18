@@ -1,7 +1,5 @@
 ---
 title: About Me
-date: '2026-01-01'
-lastmod: '2026-01-28'
 ---
 
 - - -
@@ -12,4 +10,4 @@ lastmod: '2026-01-28'
 
 本blog基于[Hugo](https://gohugo.io/)，主题设计一定程度上参考了[hugo-theme-re-terminal](https://github.com/mirus-ua/hugo-theme-re-terminal)和[hugo-xmin](https://github.com/yihui/hugo-xmin)，感谢两位大佬的主题。
 
-更新于2026/1/28
+更新于2026/10/18

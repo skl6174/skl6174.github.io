@@ -1,7 +1,7 @@
 ---
 title: 日常（20261017~18）
-date: '2026-01-25'
-lastmod: '2026-06-29'
+date: '2026-10-18'
+lastmod: '2026-10-18'
 categories:
   - Daily
 tags:
@@ -14,3 +14,11 @@ pinned: true
 还改了github workflow，希望部署了之后，我能看到这里。
 
 ![deepseek](/images/1792234450983(2).jpg)
+
+### TODO
+
+按原本的方案，所有post都从obsidian哪里sync过来，但是一直存在一些问题。
+
+lastmod只能手动维护。
+
+给网站的资源文件分了类，现在css和js在assets里，图标在logo里，普通图片在images里，其他的在misc里，希望不会出问题。
