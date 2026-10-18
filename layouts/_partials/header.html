@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="site-header__top">
+    <a class="logo" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+    <span class="dotted-line" aria-hidden="true"></span>
+  </div>
+
+  {{ with site.Menus.main }}
+  <nav class="site-nav" aria-label="主导航">
+    <ul>
+      {{ range . }}
+      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+  {{ end }}
+</header>

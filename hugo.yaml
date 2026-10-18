@@ -1,8 +1,7 @@
 baseurl: "https://skl6174.github.io/"  # please update this to your actual URL
 enableEmoji: true
-languageCode: "zh-cn"
+locale: "zh-cn"
 title: "shenkl的小窝"
-theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
@@ -30,6 +29,12 @@ menu:
 params:
   description: "shenkl's blog"
   footer: "&copy; [shenkl] 2023 -- {Year} | [Github](https://github.com/skl6174) | [Bilibili](https://space.bilibili.com/2081273376)"
+  toc: false
+  tocTitle: "目录"
+  showLastUpdated: false
+  updatedDatePrefix: "上次更新"
+  missingContentMessage: "页面不存在..."
+  missingBackButtonLabel: "返回首页"
 
 markup:
   tableOfContents:

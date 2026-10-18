@@ -1,0 +1,23 @@
+{{ $pages := .pages }}
+{{ $pinned := where $pages "Params.pinned" true }}
+
+{{ if $pages }}
+<ul class="post-list">
+  {{ range $pinned }}
+  <li>
+    <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+    <a class="post-link" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    <span class="pin">[PIN]</span>
+  </li>
+  {{ end }}
+
+  {{ range $pages }}
+    {{ if ne .Params.pinned true }}
+    <li>
+      <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      <a class="post-link" href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    </li>
+    {{ end }}
+  {{ end }}
+</ul>
+{{ end }}

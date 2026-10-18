@@ -1,0 +1,7 @@
+<footer class="site-footer">
+  {{ with site.Params.footer }}
+  <p>{{ replace . "{Year}" now.Year | markdownify }}</p>
+  {{ end }}
+</footer>
+
+{{ partial "foot_custom.html" . }}

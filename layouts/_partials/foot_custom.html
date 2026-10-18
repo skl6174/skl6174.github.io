@@ -1,14 +1,31 @@
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
-    <script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/math-code.min.js" defer></script>
-    <script src="//cdn.jsdelivr.net/combine/npm/katex/dist/katex.min.js,npm/katex/dist/contrib/auto-render.min.js,npm/@xiee/utils/js/render-katex.js" defer></script>
+{{ $hasMath := .Store.Get "hasMath" }}
+{{ $hasCode := .Store.Get "hasCode" }}
+{{ $hasImages := .Store.Get "hasImages" }}
+{{ $hasMask := .Store.Get "hasMask" }}
 
-    <script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/center-img.min.js" defer></script>
+{{ if $hasMath }}
+<script src="https://cdn.jsdelivr.net/npm/@xiee/utils@1.14.110/js/math-code.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/combine/npm/katex@0.19.0/dist/katex.min.js,npm/katex@0.19.0/dist/contrib/auto-render.min.js,npm/@xiee/utils@1.14.110/js/render-katex.js" defer></script>
+{{ end }}
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/languages/r.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/languages/dos.min.js"></script>
+{{ if $hasImages }}
+<script src="https://cdn.jsdelivr.net/npm/@xiee/utils@1.14.110/js/center-img.min.js" defer></script>
+{{ end }}
 
-    <script>
-        hljs.configure({languages: []});
-        hljs.highlightAll();
-    </script>
+{{ if $hasCode }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.12.0/highlight.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.12.0/languages/dos.min.js"></script>
+
+<script>
+  hljs.configure({ languages: [] });
+  hljs.highlightAll();
+</script>
+
+{{ $copy := resources.Get "js/code-copy.js" | minify | fingerprint }}
+<script src="{{ $copy.RelPermalink }}" integrity="{{ $copy.Data.Integrity }}" defer></script>
+{{ end }}
+
+{{ if $hasMask }}
+{{ $mask := resources.Get "js/mask.js" | minify | fingerprint }}
+<script src="{{ $mask.RelPermalink }}" integrity="{{ $mask.Data.Integrity }}" defer></script>
+{{ end }}

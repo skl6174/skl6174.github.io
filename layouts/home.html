@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{ with .Content }}
+  <div class="home-content">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  {{ $pages := where site.RegularPages "Section" "!=" "" }}
+  {{ partial "post-list.html" (dict "pages" $pages) }}
+{{ end }}
