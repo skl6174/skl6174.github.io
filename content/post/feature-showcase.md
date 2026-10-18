@@ -1,21 +1,16 @@
 ---
 title: 功能调试大全
 slug: feature-showcase
-date: '2026-10-01'
-lastmod: '2026-10-17'
+date: '2026-10-17'
+lastmod: '2026-10-18'
 description: "用于调试当前 Hugo 主题全部功能的示例文章。"
 toc: true
 tocTitle: "本文目录"
 draft: true
 categories:
-  - 调试
   - Test
 tags:
-  - Feature
   - Markdown
-  - KaTeX
-  - highlight.js
-  - Terminal
 ---
 
 # 功能调试大全
