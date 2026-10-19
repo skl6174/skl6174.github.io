@@ -344,9 +344,15 @@ sup {
 
 /* Tables */
 
-.post-content table {
-  width: 100%;
+.table-wrapper {
   margin: 2rem 0;
+  overflow-x: auto;
+}
+
+.post-content table {
+  width: auto;
+  max-width: 100%;
+  margin: 0 auto;
   border-collapse: collapse;
   font-size: 0.95rem;
 }
@@ -807,11 +813,6 @@ figure.figure img,
 
   .post-list .pin {
     margin-left: 0;
-  }
-
-  .post-content table {
-    display: block;
-    overflow-x: auto;
   }
 
   .figure-row {
