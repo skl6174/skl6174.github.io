@@ -1,12 +1,10 @@
 ---
 title: 吃瓜
 date: '2026-01-05'
-lastmod: '2026-03-26'
+lastmod: '2026-10-19'
 
 categories:
   - Daily
-tags:
-  - Onlooker
 ---
 
 <font color=#808080 size=2>标准：相对人数少影响力小的圈子并且该圈子没有经常爆瓜的刻板印象</font>
