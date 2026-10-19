@@ -1,7 +1,7 @@
 ---
 title: 日常（20260125~ ）
 date: '2026-01-25'
-lastmod: '2026-10-18'
+lastmod: '2026-10-19'
 categories:
   - Daily
 tags:
@@ -822,3 +822,11 @@ curl -I https://repo.msys2.org/msys/x86_64/msys.db
 ## 2026-10-18
 
 mark一下，想起来就把刚刚两个月的事情补了。
+
+## 2026-10-19
+
+现在hugo blog应该可以和obsidian同步了，beyond compare可以退休了。
+
+用typora打开这个markdown居然卡死了。
+
+舒服，现在应该没问题了。同步，轻而易举啊。

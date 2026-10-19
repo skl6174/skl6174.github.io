@@ -1,7 +1,7 @@
 ---
 title: 日常（20261017~18）
 date: '2026-10-18'
-lastmod: '2026-10-18'
+lastmod: '2026-10-19'
 categories:
   - Daily
 tags:
@@ -17,8 +17,7 @@ pinned: true
 
 ### TODO
 
-按原本的方案，所有post都从obsidian哪里sync过来，但是一直存在一些问题。
-
-lastmod只能手动维护。
-
-给网站的资源文件分了类，现在css和js在assets里，图标在logo里，普通图片在images里，其他的在misc里，希望不会出问题。
+- [x] 按原本的方案，所有post都从obsidian哪里sync过来，但是一直存在一些问题。
+- [ ] lastmod只能手动维护。
+- [x] 给网站的资源文件分了类，现在css和js在assets里，图标在logo里，普通图片在images里，其他的在misc里，希望不会出问题。
+- [ ] 将用于测试的blog作为新的名为“dev”的branch
