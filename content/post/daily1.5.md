@@ -6,7 +6,6 @@ categories:
   - Daily
 tags:
   - blog update
-pinned: true
 ---
 
 换了一个主题，本来想换一个Terminal UI风格的，但又害怕换了之后原本的设计迁移不过来，最后求助于deepseek，设计了这么一个不伦不类的东西。感觉暗色模式下似乎好看一点，虽然原本就设计了亮/暗模式。

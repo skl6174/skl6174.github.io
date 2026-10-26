@@ -7,7 +7,6 @@ categories:
 tags:
   - anime
   - novel
-pinned: true
 ---
 
 <font color=#808080 size=2>以后想起来什么零零碎碎的就在这里写</font>
