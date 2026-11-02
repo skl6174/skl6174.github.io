@@ -1,7 +1,7 @@
 ---
 title: 日常（20261020~ ）
 date: '2026-10-20'
-lastmod: '2026-10-26'
+lastmod: '2026-11-02'
 categories:
   - Daily
 pinned: true
@@ -61,7 +61,7 @@ Cleanroom团队曾与参与RLCraft开发的fonnymunkey等人的[团队](https://
 
 - Auynonymous（以下简称auy）
 
-minecraft1.7.10整合包GT: New Horizons的开发团队成员auy被指责频繁贬损排斥中国贡献者以及合并不合理的PR导致整合包平衡性问题，部分玩家要求将auy移出开发团队。这里附[“关于GTNH开发者auy社区行为及开发协作问题的联名投诉”](https://docs.qq.com/form/page/sequence/DQk9JZEpSU0NxSWxB)。
+minecraft1.7.10整合包GT: New Horizons的开发团队成员auy被指责频繁贬损排斥中国贡献者以及合并不合理的PR导致整合包平衡性问题，部分玩家要求将auy移出开发团队。这里附[“关于GTNH开发者auy社区行为及开发协作问题的联名投诉”](https://docs.qq.com/form/page/sequence/DQk9JZEpSU0NxSWxB)。（截至25日已移出）
 
 这件事应该是影响最小的了。
 
@@ -144,3 +144,54 @@ typora出[2.0](https://v2.typora.io/)了，666，我之前那个10000字不到�
 > 说罢，勒内直接从侍从手中取过手枪，扣动了扳机。
 
 参考文献：电视剧《黑冰》
+
+## 2026-10-27
+
+昨晚凌晨3点半到4点寝室中惊现杰瑞
+
+## 2026-10-28
+
+昨晚未发现杰瑞，只听到室友磨牙，起床后发现阳台上的肥皂消失了。
+
+## 2026-10-29
+
+> if you have a qwen3.5 4b around, please try steering neurons L14 N8949 +1 and L13 N7956 -1 now you have evil qwen 
+> 
+> recipe: dose × median(‖resid‖ leaving layer L, tokens 1:) / ‖W_down[:, n]‖` at the down_proj at every input
+
+https://x.com/_lyraaaa_/status/2113833330429083662
+
+> “思想钢印是极其复杂的设备,任何监督都会有疏漏的,特别是对几亿行代码中的一个小小的正负号而言,这一点,甚至连智子都没有察觉到。”
+
+https://x.com/shiratsuyudachi/status/2114463085331431454
+
+## 2026-10-30
+
+> 万圣节要到了，快来看看这些男生超级加分的行为：
+> 
+> 1.击杀稻草人，每次加2.5分
+> 
+> 2.击杀树精，每次加5分
+> 
+> 3.击杀地狱犬，每次加12.5分
+> 
+> 4.击杀胡闹鬼，每次加25分
+> 
+> 5.击杀无头骑士，每次加125分
+> 
+> 6.击杀哀木，每次加187.5分
+> 
+> 7.击杀南瓜王，每次加375分
+
+## 2026-11-2
+
+之前一些事情的后续：
+
+<figure class="figure">
+  <img src="/images/1793578999_960072_goBc.webp" alt="test">
+  <figcaption>Rongmario正式卸任CleanroomMC的领导职位</figcaption>
+</figure>
+
+COFH团队关于Thaumcraft 7的[roadmap](https://docs.google.com/spreadsheets/d/1V2XqClVXYFYYDzJtqw66cpQjG4AMcNyK5rB54VXl_BU/edit?usp=sharing)。
+
+前几天[《巴黎的天上与人间》](https://app.cddaoyue.cn/setting/share?book_id=100188909)正文完结了，吊作者大纲遁了。
