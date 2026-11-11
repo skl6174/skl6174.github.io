@@ -1,7 +1,7 @@
 ---
 title: 日常（20261020~ ）
 date: '2026-10-20'
-lastmod: '2026-11-02'
+lastmod: '2026-11-11'
 categories:
   - Daily
 pinned: true
@@ -99,7 +99,7 @@ typora出[2.0](https://v2.typora.io/)了，666，我之前那个10000字不到�
 
 ## 2026-10-23
 
-[阳炎](days.rest)
+[阳炎](https://days.rest)
 
 [iOS simulator](https://ios.25pan.com/)
 
@@ -195,3 +195,23 @@ https://x.com/shiratsuyudachi/status/2114463085331431454
 COFH团队关于Thaumcraft 7的[roadmap](https://docs.google.com/spreadsheets/d/1V2XqClVXYFYYDzJtqw66cpQjG4AMcNyK5rB54VXl_BU/edit?usp=sharing)。
 
 前几天[《巴黎的天上与人间》](https://app.cddaoyue.cn/setting/share?book_id=100188909)正文完结了，吊作者大纲遁了。
+
+## 2026-11-3
+
+[bangumi讨论区帖子](https://bgm.tv/group/topic/474925)：
+
+> 关于东京都港区都立六本木高中一名一年级女学生（16岁）被菜刀刺伤的事件，2日通过对侦查相关人员的采访获悉，因涉嫌杀人未遂被当场逮捕的另一名一年级女学生（16岁）供述称：“我们因政治话题发生争吵，我想如果无法和好就一起死。”警视厅正在调查详细经过。
+>
+> 据侦查相关人员称，被捕学生对受害学生说明称，两人是同年级同学，入学时起关系就很好，但10月中旬左右出现了意见分歧。据称，30日，她从家中将两把菜刀放进包里带到学校，在图书室问对方“你喜欢我吗”，对方回答“已经无法喜欢你了”，在对方转身背对她时，她追上去刺了对方。
+
+太二次元了（doge）
+
+## 2026-11-7
+
+> 有传言称 Anthropic 的 IPO 被取消
+
+被诅咒的股票代码ANT
+
+## 2026-11-11
+
+傻福学校晚上停热水，只能在11月份的天气洗冷水澡。
