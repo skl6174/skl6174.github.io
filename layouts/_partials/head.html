@@ -1,0 +1,28 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#0b6e99" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1d1e28" media="(prefers-color-scheme: dark)">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} :: {{ site.Title }}{{ end }}</title>
+<meta name="description" content="{{ .Description | default .Site.Params.description }}">
+
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{ $content := string .Content }}
+{{ $hasMath := or (strings.Contains $content "$$") (strings.Contains $content "\\(") (strings.Contains $content "\\[") (strings.Contains $content "$") }}
+{{ .Store.Set "hasMath" $hasMath }}
+{{ .Store.Set "hasCode" (strings.Contains $content "<pre") }}
+{{ .Store.Set "hasImages" (or (strings.Contains $content "<img") (strings.Contains $content "<figure")) }}
+{{ .Store.Set "hasMask" (strings.Contains $content `class="mask"`) }}
+
+{{ $style := resources.Get "css/style.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+{{ if $hasMath }}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.19.0/dist/katex.min.css">
+{{ end }}
+
+{{ with .OutputFormats.Get "RSS" }}
+<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ site.Title }}">
+{{ end }}
+
+{{ partial "head_custom.html" . }}

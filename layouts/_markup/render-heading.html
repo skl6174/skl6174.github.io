@@ -1,0 +1,3 @@
+<h{{ .Level }}{{ range $key, $value := .Attributes }}{{ if ne $key "id" }} {{ $key }}="{{ $value }}"{{ end }}{{ end }} id="{{ .Anchor | safeURL }}">
+  {{ .Text | safeHTML }}<a class="hanchor" href="#{{ .Anchor | safeURL }}" aria-label="锚点链接">§</a>
+</h{{ .Level }}>
