@@ -3,3 +3,8 @@
 /resources/_gen/
 *.bak
 /sync-from-obsidian.ps1
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+*.tmp
