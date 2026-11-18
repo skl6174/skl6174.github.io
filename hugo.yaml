@@ -1,5 +1,6 @@
 baseurl: "https://skl6174.github.io/"  # please update this to your actual URL
 enableEmoji: true
+enableRobotsTXT: true
 locale: "zh-cn"
 title: "shenkl的小窝"
 googleAnalytics: ""
@@ -34,6 +35,7 @@ params:
   showLastUpdated: false
   updatedDatePrefix: "上次更新"
   missingContentMessage: "页面不存在..."
+  missingTitle: "页面不存在"
   missingBackButtonLabel: "返回首页"
 
 markup:
