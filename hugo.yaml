@@ -1,15 +1,12 @@
-baseurl: "https://skl6174.github.io/"  # please update this to your actual URL
+baseurl: "https://skl6174.github.io/"
 enableEmoji: true
 enableRobotsTXT: true
 locale: "zh-cn"
 title: "shenkl的小窝"
-googleAnalytics: ""
-disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
 
 permalinks:
-  note: "/note/:year/:month/:day/:slug/"
   post: "/post/:year/:month/:day/:slug/"
 
 menu:
