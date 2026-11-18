@@ -3,7 +3,7 @@
 <meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#0b6e99" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1d1e28" media="(prefers-color-scheme: dark)">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} :: {{ site.Title }}{{ end }}</title>
+<title>{{ if eq .Kind "404" }}{{ site.Params.missingTitle | default "页面不存在" }} :: {{ site.Title }}{{ else if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} :: {{ site.Title }}{{ end }}</title>
 <meta name="description" content="{{ .Description | default .Site.Params.description }}">
 
 <link rel="canonical" href="{{ .Permalink }}">
