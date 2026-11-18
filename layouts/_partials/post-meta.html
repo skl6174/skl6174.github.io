@@ -11,15 +11,15 @@
     {{ end }}
   {{ end }}
 
-  {{ with .Params.categories }}
+  {{ with .GetTerms "categories" }}
   <span>分类:
-    {{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ $c | urlize }}/">{{ $c }}</a>{{ end }}
+    {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="{{ $t.RelPermalink }}">{{ $t.LinkTitle }}</a>{{ end }}
   </span>
   {{ end }}
 
-  {{ with .Params.tags }}
+  {{ with .GetTerms "tags" }}
   <span>标签:
-    {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="{{ "/tags/" | relURL }}{{ $t | urlize }}/">{{ $t }}</a>{{ end }}
+    {{ range $i, $t := . }}{{ if $i }}, {{ end }}<a href="{{ $t.RelPermalink }}">{{ $t.LinkTitle }}</a>{{ end }}
   </span>
   {{ end }}
 </div>

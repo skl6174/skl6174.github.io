@@ -8,12 +8,12 @@
 
 <link rel="canonical" href="{{ .Permalink }}">
 
-{{ $content := string .Content }}
-{{ $hasMath := or (strings.Contains $content "$$") (strings.Contains $content "\\(") (strings.Contains $content "\\[") (strings.Contains $content "$") }}
+{{ $raw := .RawContent }}
+{{ $hasMath := or (strings.Contains $raw "\\(") (strings.Contains $raw "\\[") (strings.Contains $raw "$") }}
 {{ .Store.Set "hasMath" $hasMath }}
-{{ .Store.Set "hasCode" (strings.Contains $content "<pre") }}
-{{ .Store.Set "hasImages" (or (strings.Contains $content "<img") (strings.Contains $content "<figure")) }}
-{{ .Store.Set "hasMask" (strings.Contains $content `class="mask"`) }}
+{{ .Store.Set "hasCode" (or (strings.Contains $raw "```") (strings.Contains $raw "~~~")) }}
+{{ .Store.Set "hasImages" (or (strings.Contains $raw "<img") (strings.Contains $raw "<figure") (.HasShortcode "figure") (findRE `!\[[^\]]*\]\(` $raw)) }}
+{{ .Store.Set "hasMask" (strings.Contains $raw `class="mask"`) }}
 
 {{ $style := resources.Get "css/style.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
