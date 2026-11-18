@@ -215,3 +215,25 @@ COFH团队关于Thaumcraft 7的[roadmap](https://docs.google.com/spreadsheets/d/
 ## 2026-11-11
 
 傻福学校晚上停热水，只能在11月份的天气洗冷水澡。
+
+## 2026-11-12
+
+[老黄这就辞职了？](https://stage1st.com/2b/thread-2293839-0-1.html)
+
+## 2026-11-15
+
+昨晚又没热水，~~学校总务处不作为，保修了一直没人修~~。绝望之下踹了一脚水阀，热水喷涌而出。
+
+https://fuckdarioamodei.com/
+
+## 2026-11-16
+
+谢天谢地，终于有师傅过来把热水修好了
+
+## 2026-11-17
+
+[很久以前火过一段时间的游戏](https://www.bilibili.com/toy/ZtwDu3VQMzks0gJr/index.html)
+
+## 2026-11-18
+
+凌晨5点寝室里又刷新老鼠了，还tm比之前肥了一圈。

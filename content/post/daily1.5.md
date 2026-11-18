@@ -1,7 +1,7 @@
 ---
 title: 日常（20261017~18）
 date: '2026-10-18'
-lastmod: '2026-10-19'
+lastmod: '2026-11-18'
 categories:
   - Daily
 tags:
@@ -19,4 +19,8 @@ tags:
 - [x] 按原本的方案，所有post都从obsidian哪里sync过来，但是一直存在一些问题。
 - [ ] lastmod只能手动维护。
 - [x] 给网站的资源文件分了类，现在css和js在assets里，图标在logo里，普通图片在images里，其他的在misc里，希望不会出问题。
-- [ ] 将用于测试的blog作为新的名为“dev”的branch
+- [x] 将用于测试的blog作为新的名为“dev”的branch
+
+现在两个本地仓库，一个叫origin，一个叫skl6174.github.io，但是能work，能把一个分支的更改cherrypick到另一个分支上。
+
+每次用git，都感觉是智人TV。
