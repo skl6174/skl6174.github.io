@@ -1,7 +1,7 @@
 ---
 title: 日常（20261020~ ）
 date: '2026-10-20'
-lastmod: '2026-11-11'
+lastmod: '2026-11-18'
 categories:
   - Daily
 pinned: true
