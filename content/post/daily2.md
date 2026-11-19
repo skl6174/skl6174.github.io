@@ -1,7 +1,7 @@
 ---
 title: 日常（20261020~ ）
 date: '2026-10-20'
-lastmod: '2026-11-18'
+lastmod: '2026-11-19'
 categories:
   - Daily
 pinned: true
@@ -222,7 +222,7 @@ COFH团队关于Thaumcraft 7的[roadmap](https://docs.google.com/spreadsheets/d/
 
 ## 2026-11-15
 
-昨晚又没热水，~~学校总务处不作为，保修了一直没人修~~。绝望之下踹了一脚水阀，热水喷涌而出。
+昨晚又没热水，~~学校总务处不作为，报修了一直没人修~~。绝望之下踹了一脚水阀，热水喷涌而出。
 
 https://fuckdarioamodei.com/
 
@@ -237,3 +237,7 @@ https://fuckdarioamodei.com/
 ## 2026-11-18
 
 凌晨5点寝室里又刷新老鼠了，还tm比之前肥了一圈。
+
+## 2026-11-19
+
+[微软宣布关闭 To Do](https://support.microsoft.com/en-us/planner/to-do-to-planner)
