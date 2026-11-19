@@ -1,7 +1,7 @@
 ---
 title: CNGAL
 date: '2026-02-12'
-lastmod: '2026-03-12'
+lastmod: '2026-11-19'
 categories:
   - Collection
 tags:
@@ -10,9 +10,13 @@ tags:
   - cngal
 ---
 
+<font color=#808080 size=2>此post长期更新</font>
+
+- - -
+
 2022年我在知乎上刷到莫言国G的[2020WePlay文化展文字AVG之魂展区历史墙全文一览](https://zhuanlan.zhihu.com/p/296711994)，起了把名单上所有游戏收集了玩一遍的念头，结果在这个名单上不断扩充，一直收集到现在。下面表格中资源一列代表我是否已有该游戏的资源(free表示在Steam上免费但我还没保存)，不管是在互联网上找到还是在Steam等平台购买。<span class="mask">近年来大部分国G已上架了Steam，本人不鼓励盗版，请自行购买。</span>表格主要收集十年以前的国产游戏，14年以前的国G理论上绝大部分能在表格中找到，不过这里申明一点：**表格中的游戏并不都是galgame，其中有乙游，甚至可能有blgame**，因为莫言国G那篇文章提供的游戏名单本就“群贤毕至”，所以接下来收集游戏的过程中节奏就一步步地被带歪了。下面的游戏有AVG也有RPG，还有STG、PUZ等等类别的游戏，有喜闻乐见的“擦边球”游戏，也有饱受争议的政治题材游戏，有被平台下架又在另一个平台上架的游戏，也有发布之后默默无闻很可能已经失传的游戏。截至现在，这些游戏的收集过程已持续近4年，其中发生了很多波折，国G业界也发生了很多事情，鉴于表格中游戏类别之混乱，如果你找到了表格中的某款游戏，在打开它前请做好心理准备。
 
-更新于2026/3/12，X代表将和其他条目合并。
+更新于2026/11/19，X代表将和其他条目合并。
 
 - - -
 
@@ -641,7 +645,7 @@ tags:
             <td>286studio</td>
             <td>2011/10/21</td>
             <td>2019/10/15</td>
-            <td>0</td>
+            <td>1</td>
             <td>2011/10/21iOS版</td>
         </tr>
         <tr>
@@ -649,7 +653,7 @@ tags:
             <td>286studio</td>
             <td>2015/11/12</td>
             <td>2019/5/24</td>
-            <td>0</td>
+            <td>1</td>
             <td>2015/11/12iOS版</td>
         </tr>
         <tr>
@@ -906,7 +910,7 @@ tags:
             <td>2022/9/30</td>
             <td>2022/9/30</td>
             <td>1</td>
-            <td>东方同人</td>
+            <td>东方同人 RPG</td>
         </tr>
         <tr>
             <td>初恋日记 - School Years</td>
@@ -922,7 +926,7 @@ tags:
             <td>2024/11/8</td>
             <td>2024/11/8</td>
             <td>1</td>
-            <td>东方同人</td>
+            <td>东方同人 RPG</td>
         </tr>
         <tr>
             <td>落叶岛先行版</td>
@@ -1529,7 +1533,7 @@ tags:
             <td>SoraPrayer</td>
             <td>2022/10/31</td>
             <td>2024/2/14</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -1585,7 +1589,7 @@ tags:
             <td>灵潭社</td>
             <td>2018/11/4</td>
             <td>2018/11/4</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -2841,7 +2845,7 @@ tags:
             <td>灰烬天国</td>
             <td>2017/12/21</td>
             <td>2017/12/21</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -2857,7 +2861,7 @@ tags:
             <td>灰烬天国</td>
             <td>2021/5/28</td>
             <td>2021/5/28</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -3393,7 +3397,7 @@ tags:
             <td>AsicxArt</td>
             <td>2017/11/3</td>
             <td>2017/11/3</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -3449,7 +3453,7 @@ tags:
             <td>Cyclobalan Games &amp; 绘恋制作组</td>
             <td>2021/1/29</td>
             <td>0</td>
-            <td>1</td>
+            <td>0</td>
             <td>2021/1/25安卓版</td>
         </tr>
         <tr>
@@ -3457,7 +3461,7 @@ tags:
             <td>ねこねこソフト &amp; YAMAYURI GAMES</td>
             <td>2022/1/28</td>
             <td>2022/1/28</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -5225,7 +5229,7 @@ tags:
             <td>开水工作室</td>
             <td>2011</td>
             <td>2017/7/14</td>
-            <td>0</td>
+            <td>1</td>
             <td></td>
         </tr>
         <tr>
@@ -6245,7 +6249,7 @@ tags:
             <td></td>
         </tr>
         <tr>
-            <td>泡沫 - bubbles -</td>
+            <td>泡沫 - bubbles - </td>
             <td>godxq1986</td>
             <td>2008/5/26</td>
             <td>0</td>
@@ -6781,7 +6785,7 @@ tags:
             <td></td>
         </tr>
         <tr>
-            <td>觅 - Keep Your Eyes Here -</td>
+            <td>觅 - Keep Your Eyes Here - </td>
             <td>天圣</td>
             <td>2011/7</td>
             <td>0</td>
