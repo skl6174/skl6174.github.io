@@ -34,7 +34,7 @@ params:
   missingContentMessage: "页面不存在..."
   missingTitle: "页面不存在"
   missingBackButtonLabel: "返回首页"
-  ogImage: "logo/og-default.png"
+  ogImage: "icons/og-default.png"
 
 markup:
   tableOfContents:
